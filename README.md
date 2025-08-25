@@ -1,140 +1,79 @@
 ﻿Set-Location -Path 'C:\Users\alex-\Desktop\H2_Modell\_code'
 
-$readme = @"
-# H2_Modell
+$section = @"
 
-A mixed Julia/Python workspace for hydrogen value-chain modeling, market setup, optimization (JuMP + Gurobi/HiGHS), and visualization.
+## Example results (illustrative)
+Below are example figures generated from model outputs (see `results/`) and plotting utilities. Place the corresponding images under `graphics/` for the links to render on GitHub.
 
-## Contents
-- Julia model sources: core optimization, market/data setup, exports
-- Python utilities: result plotting, EU ETS visualizations, geocoding utilities
-- Data: CSV/XLSX inputs under `data/`
-- Outputs: CSV results under `results/` and figures under `graphics/`
+- Domestic H2 deliveries (Sankey): producer supplies HVC, Steel, and Fertilizer demand centers.
+  
+  <img src="graphics/example_sankey_domestic.png" alt="Domestic H2 Sankey" width="720" />
 
-## Prerequisites
-- Julia 1.9+ with packages used across files (common: JuMP, Gurobi, HiGHS, CSV, DataFrames, DataStructures, Revise, Plots, StatsPlots)
-- Python 3.9+ with packages (common: pandas, numpy, matplotlib, scipy, geopy, openpyxl, networkx)
-- Optional: Gurobi installed and licensed for Julia. Otherwise use HiGHS where available.
-- Optional: Git LFS (recommended for large CSV/XLSX and figures)
+- Export chain (Sankey): multi-node path Producer → Port → Consumer, annotated with kt volumes per year.
+  
+  <img src="graphics/example_sankey_exports.png" alt="Export chain Sankey" width="720" />
 
-## Quick start
-1) Clone the repo and open the `_code/` folder in VS Code.
-2) Julia environment
-   - Open a Julia REPL in `_code/` and run:
-     - using Pkg; Pkg.activate("."); Pkg.add(["JuMP","Gurobi","HiGHS","CSV","DataFrames","DataStructures","Revise","Plots","StatsPlots"])  # one-time
-   - Adjust solver calls: use `Gurobi.Optimizer` if licensed, or switch to `HiGHS.Optimizer`.
-3) Python environment
-   - Create/activate a virtual env and install the basics: pandas, numpy, matplotlib, scipy, geopy, openpyxl, networkx.
+- Shipping transition: conventional ICE declines while LNG/NH3-based options scale over time.
+  
+  <img src="graphics/example_shipping_transition.png" alt="Shipping process transition" width="720" />
 
-## Data and results
-- Inputs live in `data/`. Large files are tracked with Git LFS (see `.gitattributes`).
-- Model results (CSV) are in `results/`. Plots go to `graphics/`.
+- Steel transition: Basic Oxygen Furnace (BOF) phases out; DRI ramps up in later years.
+  
+  <img src="graphics/example_steel_transition.png" alt="Steel process transition" width="720" />
 
-## Notes
-- Several prototype files contain placeholders or incomplete blocks; stabilize them incrementally.
-- Paths referencing local Windows folders can be parameterized later to improve portability.
+- Aviation demand stack (illustrative): DAC-based synthetic fuels and FT ramp towards 2050.
+  
+  <img src="graphics/example_aviation_stack.png" alt="Aviation demand stack" width="720" />
 
-## License
-MIT License (see LICENSE)
+- CO2 price trajectory and ETS benchmarks: exogenous carbon price path and emissions intensity benchmarks converging to near-zero by 2050.
+  
+  <img src="graphics/example_co2_price.png" alt="CO2 price path" width="720" />
+  
+  <img src="graphics/example_ets_benchmarks.png" alt="ETS benchmark convergence" width="720" />
+
+Notes
+- Figures are illustrative; values depend on scenario inputs (price paths, technology costs, quotas) located in `data/`.
+- Use the plotting scripts (`results_plotting.py`, `Results_Plot.py`, `EU_ETS_viz.py`) to regenerate visuals from fresh runs.
 "@
-Set-Content -Path 'README.md' -Value $readme -Encoding UTF8
 
-$gitignore = @"
-# OS / Editor
-.DS_Store
-Thumbs.db
-.vscode/
-.history/
-.idea/
-*.log
+Add-Content -Path 'README.md' -Value $section -Encoding UTF8
 
-# Python
-__pycache__/
-*.py[cod]
-*.pyo
-.ipynb_checkpoints/
-.venv/
-venv/
-.env
+git add README.md
+if ((git diff --cached --name-only) -ne $null) { git commit -m "docs: add example results gallery with figure slots" } else { Write-Host "No README changes to commit." }
 
-# Julia
-.julia/
-*.jl.cov
-*.jl.mem
-Manifest.toml
+git push -u origin main
+## Example results (illustrative)
+These figures are generated from sample scenarios. Values are illustrative and depend on inputs under data/.
 
-# Notebooks
-*.ipynb~
+- Model scope and architecture
 
-# Build/Cache
-dist/
-build/
-.cache/
+  <img src="graphics/model_intro.png" alt="Model overview" width="800" />
 
-# Optional: keep results & data tracked via LFS (see .gitattributes)
-# results/
-# graphics/
-# data/
-"@
-Set-Content -Path '.gitignore' -Value $gitignore -Encoding UTF8
+- Example trade network map
 
-$license = @"
-MIT License
+  <img src="graphics/h2_viz_map.png" alt="H2 trade network map" width="800" />
 
-Copyright (c) 2025
+- RFNBO-constrained vs. unconstrained trade flows (2050)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+  <img src="graphics/sankey_rfnbo_cap_2050.png" alt="Sankey with RFNBO capacity constraint" width="800" />
+  <img src="graphics/sankey_rfnbo_wo_cap_2050.png" alt="Sankey without RFNBO capacity constraint" width="800" />
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+- Sector process outputs (Stackelberg examples)
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-"@
-Set-Content -Path 'LICENSE' -Value $license -Encoding UTF8
+  <img src="graphics/steel_stackelberg.png" alt="Steel process outputs" width="800" />
+  <img src="graphics/fertilizer_stackelberg.png" alt="Fertilizer process outputs" width="800" />
 
-$gitattributes = @"
-# Use Git LFS for large/binary artifacts in data/results/graphics
-/data/** filter=lfs diff=lfs merge=lfs -text
-/results/** filter=lfs diff=lfs merge=lfs -text
-/graphics/** filter=lfs diff=lfs merge=lfs -text
+- Aviation and Shipping illustrative transitions
 
-# Common binaries
-*.xlsx filter=lfs diff=lfs merge=lfs -text
-*.xls  filter=lfs diff=lfs merge=lfs -text
-*.png  filter=lfs diff=lfs merge=lfs -text
-*.jpg  filter=lfs diff=lfs merge=lfs -text
-*.jpeg filter=lfs diff=lfs merge=lfs -text
-*.svg  filter=lfs diff=lfs merge=lfs -text
-"@
-Set-Content -Path '.gitattributes' -Value $gitattributes -Encoding UTF8
+  <img src="graphics/aviation_process_rfnbo.png" alt="Aviation process mix" width="800" />
+  <img src="graphics/shipping_process_rfnbo.png" alt="Shipping process mix" width="800" />
 
-# Optionally enable Git LFS if available
-if (Get-Command git-lfs -ErrorAction SilentlyContinue) { git lfs install }
+- CO2 price path and ETS benchmark convergence
 
-# Commit
-git add .
-$env:GIT_COMMITTER_DATE = (Get-Date).ToString('o')
-$env:GIT_AUTHOR_DATE = (Get-Date).ToString('o')
-git commit -m "chore: initial commit with repo scaffolding and sources"
+  <img src="graphics/co2_price.jpg" alt="CO2 price path" width="600" />
+  <img src="graphics/ets_benchmarks.jpg" alt="ETS benchmark convergence" width="600" />
 
-# Attempt to create/push GitHub repo via gh CLI
-if (Get-Command gh -ErrorAction SilentlyContinue) {
-  gh repo create H2_Modell --private --source=. --remote=origin --push
-  git remote -v
-} else {
-  Write-Host "GitHub CLI (gh) not found. Repo is initialized locally."
-  git remote -v
-}
+- Residual capacities snapshot
 
-git status -b --porcelain
+  <img src="graphics/residual_capacities.png" alt="Residual capacities" width="800" />
+
