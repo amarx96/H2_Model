@@ -19,7 +19,7 @@ Below are example figures generated from model outputs (see `results/`) and plot
 
 - Steel transition: Basic Oxygen Furnace (BOF) phases out; DRI ramps up in later years.
   
-  <img src="graphics/example_steel_transition.png" alt="Steel process transition" width="720" />
+  <img src="graphics/Steel_Stackelberg" alt="Steel process transition" width="720" />
 
 - Aviation demand stack (illustrative): DAC-based synthetic fuels and FT ramp towards 2050.
   
