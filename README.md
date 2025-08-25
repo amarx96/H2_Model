@@ -1,11 +1,10 @@
-﻿$readme = @'
-# H2_Model
+﻿# H2_Model
 
 A Julia-based modeling toolkit to simulate hydrogen and e-fuel value chains. It supports:
 - Perfect-competition market clearing (system cost minimization)
 - A Stackelberg-like game where selected leaders maximize profit subject to demand and competition
 
-This codebase accompanies the author's master thesis and includes model code and example plotting tools.
+This codebase accompanies my master thesis and includes model code and example plotting tools.
 
 ## What the model does
 - Represents upstream producers (H2 and derivatives), midstream transport/conversion, and downstream industry demand (steel, fertilizer, high-value chemicals, shipping, aviation)
@@ -82,4 +81,3 @@ Below are example figures generated from sample scenarios. Values depend on data
 
 ## License
 MIT (see LICENSE)
-'@
