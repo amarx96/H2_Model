@@ -38,8 +38,8 @@ Large or derived datasets should be tracked with Git LFS when appropriate.
 1) Open a Julia REPL in this folder and install dependencies once:
    using Pkg; Pkg.activate("."); Pkg.add(["JuMP","Gurobi","HiGHS","CSV","DataFrames","DataStructures","Revise","Plots","StatsPlots"])
 2) Choose a model entry point (e.g., _Main.jl) and set the optimizer:
-   # set_optimizer(m, Gurobi.Optimizer)  # if licensed
-   # set_optimizer(m, HiGHS.Optimizer)   # open-source alternative
+    set_optimizer(m, Gurobi.Optimizer)  # if licensed
+    set_optimizer(m, HiGHS.Optimizer)   # open-source alternative
 3) Run; results (CSV) are written to results/. Use the Python utilities to render figures to graphics/.
 
 ## Example results (illustrative)
