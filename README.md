@@ -11,7 +11,7 @@ Below are example figures generated from model outputs (see `results/`) and plot
 
 - Export chain (Sankey): multi-node path Producer → Port → Consumer, annotated with kt volumes per year.
   
-  <img src="graphics/example_sankey_exports.png" alt="Export chain Sankey" width="720" />
+  <img src="graphics/H2_Viz_Map.png" alt="Export chain Sankey" width="720" />
 
 - Shipping transition: conventional ICE declines while LNG/NH3-based options scale over time.
   
