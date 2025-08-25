@@ -69,15 +69,11 @@ Below are example figures generated from sample scenarios. Values depend on data
   <img src="graphics/Shipping_process_RFNBO_wo_Constraint.png" alt="Shipping process mix over time" width="600" />
 
 #### - Forecasted hydrogen trade-flows in 2030 (illustrative)
-  <img src="graphics/Sankey_Rfnbo_CapCon_2030(1)" alt="Shipping process mix over time" width="600" />
+  <img src="graphics/Sankey_Rfnbo_CapCon_2030" alt="Shipping process mix over time" width="600" />
 
 #### - RFNBO-constrained trade flows in 2050, (illustrative) Sankey
 
-  <img src="graphics/Sankey_Rfnbo_CapCon_2030(1).png" alt="Sankey with RFNBO capacity constraint" width="600" />
-
-## Notes
-- Some prototype files include placeholders; refine incrementally
-- Replace absolute Windows paths with project-relative paths for portability
+  <img src="graphics/Sankey_Rfnbo_CapCon_2050.png" alt="Sankey with RFNBO capacity constraint" width="600" />
 
 ## License
 MIT (see LICENSE)
