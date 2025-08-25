@@ -57,20 +57,23 @@ Below are example figures generated from sample scenarios. Values depend on data
 
   <img src="graphics/sankey_rfnbo_cap_2050.png" alt="Sankey with RFNBO capacity constraint" width="800" />
 
+  - CO2 price path and ETS benchmark convergence
+
+  <img src="graphics/co2_price.jpg" alt="CO2 price path" width="600" />
+  <img src="graphics/ets_benchmarks.jpg" alt="ETS benchmark convergence" width="600" />
+
+
+  - Forecasted Residual capacities snapshot
+
+  <img src="graphics/residual_capacities.png" alt="Residual capacities" width="800" />
+
 - Aviation and Shipping process transitions (illustrative)
 
   <img src="graphics/aviation_process_rfnbo.png" alt="Aviation process mix over time" width="720" />
   <img src="graphics/shipping_process_rfnbo.png" alt="Shipping process mix over time" width="720" />
 
-- CO2 price path and ETS benchmark convergence
-
-  <img src="graphics/co2_price.jpg" alt="CO2 price path" width="600" />
-  <img src="graphics/ets_benchmarks.jpg" alt="ETS benchmark convergence" width="600" />
-
-- Residual capacities snapshot
-
-  <img src="graphics/residual_capacities.png" alt="Residual capacities" width="800" />
-
+- Forecasted hydrogen trade-flows in 2030 (illustrative)
+-   <img src="graphics/Sankey_Rfnbo_CapCon_2030(1)" alt="Shipping process mix over time" width="720" />
 ## Notes
 - Some prototype files include placeholders; refine incrementally
 - Replace absolute Windows paths with project-relative paths for portability
