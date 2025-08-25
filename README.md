@@ -45,35 +45,36 @@ Large or derived datasets should be tracked with Git LFS when appropriate.
 ## Example results (illustrative)
 Below are example figures generated from sample scenarios. Values depend on data/ inputs.
 
-- Model scope and architecture
+### - Model scope and architecture
 
-  <img src="graphics/model_intro.png" alt="Model overview" width="800" />
+  <img src="graphics/model_intro.png" alt="Model overview" width="600" />
 
-- Example trade network map
+#### - Example trade network map
 
-  <img src="graphics/h2_viz_map.png" alt="H2 trade network map" width="800" />
+  <img src="graphics/h2_viz_map.png" alt="H2 trade network map" width="600" />
 
-- RFNBO-constrained trade flows (2050), illustrative Sankey
+#### - RFNBO-constrained trade flows (2050), illustrative Sankey
 
-  <img src="graphics/sankey_rfnbo_cap_2050.png" alt="Sankey with RFNBO capacity constraint" width="800" />
+  <img src="graphics/sankey_rfnbo_cap_2050.png" alt="Sankey with RFNBO capacity constraint" width="600" />
 
-  - CO2 price path and ETS benchmark convergence
+####  - CO2 price path and ETS benchmark convergence
 
   <img src="graphics/co2_price.jpg" alt="CO2 price path" width="600" />
   <img src="graphics/ets_benchmarks.jpg" alt="ETS benchmark convergence" width="600" />
 
 
-  - Forecasted Residual capacities snapshot
+####  - Forecasted Residual capacities
 
-  <img src="graphics/residual_capacities.png" alt="Residual capacities" width="800" />
+  <img src="graphics/residual_capacities.png" alt="Residual capacities" width="600" />
 
-- Aviation and Shipping process transitions (illustrative)
+####- Aviation and Shipping process transitions (illustrative)
 
-  <img src="graphics/aviation_process_rfnbo.png" alt="Aviation process mix over time" width="720" />
-  <img src="graphics/shipping_process_rfnbo.png" alt="Shipping process mix over time" width="720" />
+  <img src="graphics/aviation_process_rfnbo.png" alt="Aviation process mix over time" width="600" />
+  <img src="graphics/shipping_process_rfnbo.png" alt="Shipping process mix over time" width="600" />
 
 - Forecasted hydrogen trade-flows in 2030 (illustrative)
--   <img src="graphics/Sankey_Rfnbo_CapCon_2030(1)" alt="Shipping process mix over time" width="720" />
+-   <img src="graphics/Sankey_Rfnbo_CapCon_2030(1)" alt="Shipping process mix over time" width="600" />
+
 ## Notes
 - Some prototype files include placeholders; refine incrementally
 - Replace absolute Windows paths with project-relative paths for portability
