@@ -77,3 +77,4 @@ These figures are generated from sample scenarios. Values are illustrative and d
 
   <img src="graphics/residual_capacities.png" alt="Residual capacities" width="800" />
 
+
