@@ -1,0 +1,8 @@
+﻿Process,Input,Output,Input_Stichiometry,,
+Hb,Gas,H2,,,
+MeOhSyn1,H2,MeOH,,,
+MeOhSyn2,CO,MeOH,,,
+MeOHSyn2,H2,MeOH,,,
+MeOhSyn2,CO2,MeOH,,,
+RWGS,CO2,CO,,,
+FT,H2,E-Kerosene,,,s

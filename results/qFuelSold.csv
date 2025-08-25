@@ -1,0 +1,121 @@
+Supplier,Industry,Fuel,Origin,Destination,Year,Value
+Producer,Hvc,H2,Chanaral,Leverkusen,2030,0.0
+Producer,Hvc,H2,Chanaral,Leverkusen,2035,0.0
+Producer,Hvc,H2,Chanaral,Leverkusen,2040,0.0
+Producer,Hvc,H2,Chanaral,Leverkusen,2045,0.0
+Producer,Hvc,H2,Chanaral,Leverkusen,2050,0.0
+Producer,Hvc,H2,Teruel,Leverkusen,2030,0.0
+Producer,Hvc,H2,Teruel,Leverkusen,2035,0.0
+Producer,Hvc,H2,Teruel,Leverkusen,2040,0.0
+Producer,Hvc,H2,Teruel,Leverkusen,2045,0.0
+Producer,Hvc,H2,Teruel,Leverkusen,2050,0.0
+Producer,Hvc,MeOH,Chanaral,Leverkusen,2030,0.0
+Producer,Hvc,MeOH,Chanaral,Leverkusen,2035,0.0
+Producer,Hvc,MeOH,Chanaral,Leverkusen,2040,0.0
+Producer,Hvc,MeOH,Chanaral,Leverkusen,2045,0.0
+Producer,Hvc,MeOH,Chanaral,Leverkusen,2050,0.0
+Producer,Hvc,MeOH,Teruel,Leverkusen,2030,0.0
+Producer,Hvc,MeOH,Teruel,Leverkusen,2035,0.0
+Producer,Hvc,MeOH,Teruel,Leverkusen,2040,0.0
+Producer,Hvc,MeOH,Teruel,Leverkusen,2045,0.0
+Producer,Hvc,MeOH,Teruel,Leverkusen,2050,0.0
+Producer,Fertilizer,H2,Chanaral,Ludwigshafen,2030,0.0
+Producer,Fertilizer,H2,Chanaral,Ludwigshafen,2035,0.0
+Producer,Fertilizer,H2,Chanaral,Ludwigshafen,2040,0.0
+Producer,Fertilizer,H2,Chanaral,Ludwigshafen,2045,0.0
+Producer,Fertilizer,H2,Chanaral,Ludwigshafen,2050,0.0
+Producer,Fertilizer,H2,Teruel,Ludwigshafen,2030,0.0
+Producer,Fertilizer,H2,Teruel,Ludwigshafen,2035,0.0
+Producer,Fertilizer,H2,Teruel,Ludwigshafen,2040,0.0
+Producer,Fertilizer,H2,Teruel,Ludwigshafen,2045,0.0
+Producer,Fertilizer,H2,Teruel,Ludwigshafen,2050,0.0
+Producer,Fertilizer,NH3,Chanaral,Ludwigshafen,2030,0.0
+Producer,Fertilizer,NH3,Chanaral,Ludwigshafen,2035,0.0
+Producer,Fertilizer,NH3,Chanaral,Ludwigshafen,2040,0.0
+Producer,Fertilizer,NH3,Chanaral,Ludwigshafen,2045,0.0
+Producer,Fertilizer,NH3,Chanaral,Ludwigshafen,2050,0.0
+Producer,Fertilizer,NH3,Teruel,Ludwigshafen,2030,0.0
+Producer,Fertilizer,NH3,Teruel,Ludwigshafen,2035,0.0
+Producer,Fertilizer,NH3,Teruel,Ludwigshafen,2040,0.0
+Producer,Fertilizer,NH3,Teruel,Ludwigshafen,2045,0.0
+Producer,Fertilizer,NH3,Teruel,Ludwigshafen,2050,0.0
+Producer,Shipping,H2,Chanaral,Hamburg,2030,0.0
+Producer,Shipping,H2,Chanaral,Hamburg,2035,0.0
+Producer,Shipping,H2,Chanaral,Hamburg,2040,0.0
+Producer,Shipping,H2,Chanaral,Hamburg,2045,0.0
+Producer,Shipping,H2,Chanaral,Hamburg,2050,0.0
+Producer,Shipping,H2,Teruel,Hamburg,2030,0.0
+Producer,Shipping,H2,Teruel,Hamburg,2035,0.0
+Producer,Shipping,H2,Teruel,Hamburg,2040,0.0
+Producer,Shipping,H2,Teruel,Hamburg,2045,0.0
+Producer,Shipping,H2,Teruel,Hamburg,2050,0.0
+Producer,Shipping,NH3,Chanaral,Hamburg,2030,0.0
+Producer,Shipping,NH3,Chanaral,Hamburg,2035,0.0
+Producer,Shipping,NH3,Chanaral,Hamburg,2040,0.0
+Producer,Shipping,NH3,Chanaral,Hamburg,2045,0.0
+Producer,Shipping,NH3,Chanaral,Hamburg,2050,0.0
+Producer,Shipping,NH3,Teruel,Hamburg,2030,0.0
+Producer,Shipping,NH3,Teruel,Hamburg,2035,0.0
+Producer,Shipping,NH3,Teruel,Hamburg,2040,0.0
+Producer,Shipping,NH3,Teruel,Hamburg,2045,0.0
+Producer,Shipping,NH3,Teruel,Hamburg,2050,0.0
+Producer,Shipping,MeOH,Chanaral,Hamburg,2030,0.0
+Producer,Shipping,MeOH,Chanaral,Hamburg,2035,0.0
+Producer,Shipping,MeOH,Chanaral,Hamburg,2040,0.0
+Producer,Shipping,MeOH,Chanaral,Hamburg,2045,0.0
+Producer,Shipping,MeOH,Chanaral,Hamburg,2050,0.0
+Producer,Shipping,MeOH,Teruel,Hamburg,2030,0.0
+Producer,Shipping,MeOH,Teruel,Hamburg,2035,0.0
+Producer,Shipping,MeOH,Teruel,Hamburg,2040,0.0
+Producer,Shipping,MeOH,Teruel,Hamburg,2045,0.0
+Producer,Shipping,MeOH,Teruel,Hamburg,2050,0.0
+Producer,Steel,H2,Chanaral,Duisburg,2030,0.0
+Producer,Steel,H2,Chanaral,Duisburg,2035,0.0
+Producer,Steel,H2,Chanaral,Duisburg,2040,0.0
+Producer,Steel,H2,Chanaral,Duisburg,2045,0.0
+Producer,Steel,H2,Chanaral,Duisburg,2050,0.0
+Producer,Steel,H2,Teruel,Duisburg,2030,0.0
+Producer,Steel,H2,Teruel,Duisburg,2035,0.0
+Producer,Steel,H2,Teruel,Duisburg,2040,0.0
+Producer,Steel,H2,Teruel,Duisburg,2045,0.0
+Producer,Steel,H2,Teruel,Duisburg,2050,0.0
+LC Producer,Hvc,LCMeOH,Fiska,Leverkusen,2030,0.0
+LC Producer,Hvc,LCMeOH,Fiska,Leverkusen,2035,0.0
+LC Producer,Hvc,LCMeOH,Fiska,Leverkusen,2040,0.0
+LC Producer,Hvc,LCMeOH,Fiska,Leverkusen,2045,0.0
+LC Producer,Hvc,LCMeOH,Fiska,Leverkusen,2050,0.0
+LC Producer,Hvc,LCH2,Fiska,Leverkusen,2030,0.0
+LC Producer,Hvc,LCH2,Fiska,Leverkusen,2035,0.0
+LC Producer,Hvc,LCH2,Fiska,Leverkusen,2040,0.0
+LC Producer,Hvc,LCH2,Fiska,Leverkusen,2045,0.0
+LC Producer,Hvc,LCH2,Fiska,Leverkusen,2050,0.0
+LC Producer,Fertilizer,LCNH3,Fiska,Ludwigshafen,2030,0.0
+LC Producer,Fertilizer,LCNH3,Fiska,Ludwigshafen,2035,0.0
+LC Producer,Fertilizer,LCNH3,Fiska,Ludwigshafen,2040,0.0
+LC Producer,Fertilizer,LCNH3,Fiska,Ludwigshafen,2045,0.0
+LC Producer,Fertilizer,LCNH3,Fiska,Ludwigshafen,2050,0.0
+LC Producer,Fertilizer,LCH2,Fiska,Ludwigshafen,2030,0.0
+LC Producer,Fertilizer,LCH2,Fiska,Ludwigshafen,2035,0.0
+LC Producer,Fertilizer,LCH2,Fiska,Ludwigshafen,2040,0.0
+LC Producer,Fertilizer,LCH2,Fiska,Ludwigshafen,2045,0.0
+LC Producer,Fertilizer,LCH2,Fiska,Ludwigshafen,2050,0.0
+LC Producer,Shipping,LCNH3,Fiska,Hamburg,2030,0.0
+LC Producer,Shipping,LCNH3,Fiska,Hamburg,2035,0.0
+LC Producer,Shipping,LCNH3,Fiska,Hamburg,2040,0.0
+LC Producer,Shipping,LCNH3,Fiska,Hamburg,2045,0.0
+LC Producer,Shipping,LCNH3,Fiska,Hamburg,2050,0.0
+LC Producer,Shipping,LCMeOH,Fiska,Hamburg,2030,0.0
+LC Producer,Shipping,LCMeOH,Fiska,Hamburg,2035,0.0
+LC Producer,Shipping,LCMeOH,Fiska,Hamburg,2040,0.0
+LC Producer,Shipping,LCMeOH,Fiska,Hamburg,2045,0.0
+LC Producer,Shipping,LCMeOH,Fiska,Hamburg,2050,0.0
+LC Producer,Shipping,LCH2,Fiska,Hamburg,2030,0.0
+LC Producer,Shipping,LCH2,Fiska,Hamburg,2035,0.0
+LC Producer,Shipping,LCH2,Fiska,Hamburg,2040,0.0
+LC Producer,Shipping,LCH2,Fiska,Hamburg,2045,0.0
+LC Producer,Shipping,LCH2,Fiska,Hamburg,2050,0.0
+LC Producer,Steel,LCH2,Fiska,Duisburg,2030,0.0
+LC Producer,Steel,LCH2,Fiska,Duisburg,2035,0.0
+LC Producer,Steel,LCH2,Fiska,Duisburg,2040,0.0
+LC Producer,Steel,LCH2,Fiska,Duisburg,2045,0.0
+LC Producer,Steel,LCH2,Fiska,Duisburg,2050,0.0

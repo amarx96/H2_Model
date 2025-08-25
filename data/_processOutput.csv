@@ -1,0 +1,29 @@
+﻿Process,Output
+Bof,Steel
+Dri,Steel
+Smr,H2
+Hb,NH3
+Fertilizer Synthesis,Fertilizer
+Conventional ICE,Shipping
+H2 ICE,Shipping
+LNG ICE,Shipping
+NH3 ICE,Shipping
+MeOH ICE,Shipping
+Mto/Mta,Aromatics/Olefins
+Nto/Nta,Aromatics/Olefins
+Rwgs,CO2
+MeOHSyn1,MeOH
+MeOHSyn2,MeOH
+Asu,N
+Dac,CO2
+Btm,MeOH
+Pv,Electricity
+Onwind,Electricity
+Offwind,Electricity
+MeOHSyn,MeOH
+El,H2
+Smr-Hb,Fertilizer
+El-Hb,Fertilizer
+H2Liq,LH2
+H2Eva,H2
+Esc,Aromatics/Olefins

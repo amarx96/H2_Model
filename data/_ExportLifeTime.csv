@@ -1,0 +1,12 @@
+﻿Mode,Fuel,Value
+shipping,LH2,40
+shipping,NH3,40
+shipping,MeOH,40
+pipeline,H2,40
+pipeline,NH3,40
+pipeline,MeOH,40
+pipeline,LCH2,40
+submarine,H2,40
+submarine,NH3,40
+submarine,MeOH,40
+submarine,LCH2,40

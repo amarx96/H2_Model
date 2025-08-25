@@ -1,0 +1,9 @@
+﻿Transportmode;Fuel;Tag
+Pipeline;H2;1
+Pipeline;L2;0
+Pipeline;MeOH;1
+Pipeline;NH3;1
+Shipping;H2;0
+Shipping;L2;1
+Shipping;MeOH;1
+Shipping;NH3;1

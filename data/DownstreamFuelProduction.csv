@@ -1,0 +1,8 @@
+﻿Process,Input,Output,Column4,Value
+Smr,Gas,H2,[t_H2/t_NH3],3.2
+MeOhSyn1,H2,MeOH,tH2/tMeOh,0.0756
+MeOhSyn2,CO,MeOH,tCO/tMeOH,0.1
+MeOHSyn2,H2,MeOH,tH2/tMeOh,0.1134
+MeOhSyn2,CO2,MeOH,tCO2/tMeOH,0.11
+RWGS,CO2,CO,tCO2/tCO,0.25
+FT,H2,E-Kerosene,tH2/tEKerosene,0.27

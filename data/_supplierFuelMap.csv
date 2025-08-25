@@ -1,0 +1,26 @@
+﻿Supplier,Fuel,Value
+Producer,H2,1
+Producer,NH3,1
+Producer,MeOH,1
+LC Producer,LCH2,1
+LC Producer,LCNH3,1
+LC Producer,LCMeOH,1
+Port,LH2,1
+Port,H2,1
+Port,NH3,1
+Port,MeOH,1
+Port,LCH2,1
+Port,LCNH3,1
+Port,LCMeOH,1
+Market,Electricity,1
+Market,Gas,1
+Market,Coal,1
+Market,MGO,1
+Market,LNG,1
+Market,Biodiesel,1
+Market,HEFA,1
+Market,JetA,1
+Market,Naphtha,1
+Market,Biomass,1
+Market,CO2,1
+Market,JetA,1

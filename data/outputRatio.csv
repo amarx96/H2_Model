@@ -1,0 +1,131 @@
+﻿Process,Output,Year,Value
+Bof,Steel,2030,1
+Bof,Steel,2035,1
+Bof,Steel,2040,1
+Bof,Steel,2045,1
+Bof,Steel,2050,1
+Dri,Steel,2030,1
+Dri,Steel,2035,1
+Dri,Steel,2040,1
+Dri,Steel,2045,1
+Dri,Steel,2050,1
+Fertilizer Synthesis,Fertilizer,2030,1
+Fertilizer Synthesis,Fertilizer,2035,1
+Fertilizer Synthesis,Fertilizer,2040,1
+Fertilizer Synthesis,Fertilizer,2045,1
+Fertilizer Synthesis,Fertilizer,2050,1
+Hb,NH3,2030,1
+Hb,NH3,2035,1
+Hb,NH3,2040,1
+Hb,NH3,2045,1
+Hb,NH3,2050,1
+Hb,LCNH3,2030,1
+Hb,LCNH3,2035,1
+Hb,LCNH3,2040,1
+Hb,LCNH3,2045,1
+Hb,LCNH3,2050,1
+Hb,HCNH3,2030,1
+Hb,HCNH3,2035,1
+Hb,HCNH3,2040,1
+Hb,HCNH3,2045,1
+Hb,HCNH3,2050,1
+Smr,HCH2,2030,1
+Smr,HCH2,2035,1
+Smr,HCH2,2040,1
+Smr,HCH2,2045,1
+Smr,HCH2,2050,1
+SmrCCTS,LCH2,2030,1
+SmrCCTS,LCH2,2035,1
+SmrCCTS,LCH2,2040,1
+SmrCCTS,LCH2,2045,1
+SmrCCTS,LCH2,2050,1
+Asu,N,2030,1
+Asu,N,2035,1
+Asu,N,2040,1
+Asu,N,2045,1
+Asu,N,2050,1
+Conventional ICE,Conventional ICE,2030,1
+Conventional ICE,Conventional ICE,2035,1
+Conventional ICE,Conventional ICE,2040,1
+Conventional ICE,Conventional ICE,2045,1
+Conventional ICE,Conventional ICE,2050,1
+Nto/Nta,Olefins/Aromatics,2030,1
+Nto/Nta,Olefins/Aromatics,2035,1
+Nto/Nta,Olefins/Aromatics,2040,1
+Nto/Nta,Olefins/Aromatics,2045,1
+Nto/Nta,Olefins/Aromatics,2050,1
+Mto/Mta,Olefins/Aromatics,2030,1
+Mto/Mta,Olefins/Aromatics,2035,1
+Mto/Mta,Olefins/Aromatics,2040,1
+Mto/Mta,Olefins/Aromatics,2045,1
+Mto/Mta,Olefins/Aromatics,2050,1
+MeOHSyn,MeOH,2030,1
+MeOHSyn,MeOH,2035,1
+MeOHSyn,MeOH,2040,1
+MeOHSyn,MeOH,2045,1
+MeOHSyn,MeOH,2050,1
+MeOHSyn,LCMeOH,2030,1
+MeOHSyn,LCMeOH,2035,1
+MeOHSyn,LCMeOH,2040,1
+MeOHSyn,LCMeOH,2045,1
+MeOHSyn,LCMeOH,2050,1
+Dac,CO2,2030,1
+Dac,CO2,2035,1
+Dac,CO2,2040,1
+Dac,CO2,2045,1
+Dac,CO2,2050,1
+Btm,BMeOH,2030,1
+Btm,BMeOH,2035,1
+Btm,BMeOH,2040,1
+Btm,BMeOH,2045,1
+Btm,BMeOH,2050,1
+Onwind,Electricity,2030,1
+Onwind,Electricity,2035,1
+Onwind,Electricity,2040,1
+Onwind,Electricity,2045,1
+Onwind,Electricity,2050,1
+Offwind,Electricity,2030,1
+Offwind,Electricity,2035,1
+Offwind,Electricity,2040,1
+Offwind,Electricity,2045,1
+Offwind,Electricity,2050,1
+Wind,Electricity,2030,1
+Wind,Electricity,2035,1
+Wind,Electricity,2040,1
+Wind,Electricity,2045,1
+Wind,Electricity,2050,1
+El,H2,2030,1
+El,H2,2035,1
+El,H2,2040,1
+El,H2,2045,1
+El,H2,2050,1
+Pv,Electricity,2030,1
+Pv,Electricity,2035,1
+Pv,Electricity,2040,1
+Pv,Electricity,2045,1
+Pv,Electricity,2050,1
+AmCr,H2,2030,1
+AmCr,H2,2035,1
+AmCr,H2,2040,1
+AmCr,H2,2045,1
+AmCr,H2,2050,1
+H2Liq,LH2,2030,1
+H2Liq,LH2,2035,1
+H2Liq,LH2,2040,1
+H2Liq,LH2,2045,1
+H2Liq,LH2,2050,1
+H2Eva,H2,2030,1
+H2Eva,H2,2035,1
+H2Eva,H2,2040,1
+H2Eva,H2,2045,1
+H2Eva,H2,2050,1
+Conventional ICE,Shipping,2030,1
+Conventional ICE,Shipping,2035,1
+Conventional ICE,Shipping,2040,1
+Conventional ICE,Shipping,2045,1
+Conventional ICE,Shipping,2050,1
+H2  ICE,Shipping,2030,1
+H2 ICE,Shipping,2035,1
+H2 ICE,Shipping,2040,1
+H2 ICE,Shipping,2045,1
+H2 ICE,Shipping,2050,1

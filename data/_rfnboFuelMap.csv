@@ -1,0 +1,284 @@
+﻿Process,Input,Year,Value
+Bof,Coal,2030,0
+Bof,Coal,2035,0
+Bof,Coal,2040,0
+Bof,Coal,2045,0
+Bof,Coal,2050,0
+Bof,Gas,2030,0
+Bof,Gas,2035,0
+Bof,Gas,2040,0
+Bof,Gas,2045,0
+Bof,Gas,2050,0
+Dri,Electricity,2030,0.5
+Dri,Electricity,2035,0.55
+Dri,Electricity,2040,0.6
+Dri,Electricity,2045,0.7
+Dri,Electricity,2050,0.85
+Dri,HCH2,2030,0
+Dri,HCH2,2035,0
+Dri,HCH2,2040,0
+Dri,HCH2,2045,0
+Dri,HCH2,2050,0
+Dri,LCH2,2030,0.5
+Dri,LCH2,2035,0.55
+Dri,LCH2,2040,0.6
+Dri,LCH2,2045,0.65
+Dri,LCH2,2050,0.7
+Dri,H2,2030,2
+Dri,H2,2035,2
+Dri,H2,2040,2
+Dri,H2,2045,2
+Dri,H2,2050,2
+Fertilizer Synthesis,LCNH3,2030,0.5
+Fertilizer Synthesis,LCNH3,2035,0.55
+Fertilizer Synthesis,LCNH3,2040,0.6
+Fertilizer Synthesis,LCNH3,2045,0.65
+Fertilizer Synthesis,LCNH3,2050,0.8
+Fertilizer Synthesis,HCNH3,2030,0
+Fertilizer Synthesis,HCNH3,2035,0
+Fertilizer Synthesis,HCNH3,2040,0
+Fertilizer Synthesis,HCNH3,2045,0
+Fertilizer Synthesis,HCNH3,2050,0
+Fertilizer Synthesis,NH3,2030,2
+Fertilizer Synthesis,NH3,2035,2
+Fertilizer Synthesis,NH3,2040,2
+Fertilizer Synthesis,NH3,2045,2
+Fertilizer Synthesis,NH3,2050,2
+Hb,H2,2030,2
+Hb,H2,2035,2
+Hb,H2,2040,2
+Hb,H2,2045,2
+Hb,H2,2050,2
+Hb,LCH2,2030,0.5
+Hb,LCH2,2035,0.55
+Hb,LCH2,2040,0.6
+Hb,LCH2,2045,0.65
+Hb,LCH2,2050,0.8
+Hb,HCH2,2030,0
+Hb,HCH2,2035,0
+Hb,HCH2,2040,0
+Hb,HCH2,2045,0
+Hb,HCH2,2050,0
+Hb,Electricity,2030,0.5
+Hb,Electricity,2035,0.55
+Hb,Electricity,2040,0.6
+Hb,Electricity,2045,0.7
+Hb,Electricity,2050,0.8
+Hb,N,2030,2
+Hb,N,2035,2
+Hb,N,2040,2
+Hb,N,2045,2
+Hb,N,2050,2
+Asu,Electricity,2030,0.5
+Asu,Electricity,2035,0.55
+Asu,Electricity,2040,0.6
+Asu,Electricity,2045,0.7
+Asu,Electricity,2050,0.85
+Smr,Gas,2030,0
+Smr,Gas,2035,0
+Smr,Gas,2040,0
+Smr,Gas,2045,0
+SmrCCTS,Gas,2030,0
+SmrCCTS,Gas,2035,0
+SmrCCTS,Gas,2040,0
+SmrCCTS,Gas,2045,0
+SmrCCTS,Gas,2050,0
+Nto/Nta,Naphtha,2030,0
+Nto/Nta,Naphtha,2035,0
+Nto/Nta,Naphtha,2040,0
+Nto/Nta,Naphtha,2045,0
+Nto/Nta,Naphtha,2050,0
+Mto/Mta,MeOH,2030,2
+Mto/Mta,MeOH,2035,2
+Mto/Mta,MeOH,2040,2
+Mto/Mta,MeOH,2045,2
+Mto/Mta,MeOH,2050,2
+Mto/Mta,LCMeOH,2030,0.5
+Mto/Mta,LCMeOH,2035,0.55
+Mto/Mta,LCMeOH,2040,0.6
+Mto/Mta,LCMeOH,2045,0.65
+Mto/Mta,LCMeOH,2050,0.7
+Mto/Mta,BMeOH,2030,0
+Mto/Mta,BMeOH,2035,0
+Mto/Mta,BMeOH,2040,0
+Mto/Mta,BMeOH,2045,0
+Mto/Mta,BMeOH,2050,0
+MeOHSyn,H2,2030,2
+MeOHSyn,H2,2035,2
+MeOHSyn,H2,2040,2
+MeOHSyn,H2,2045,2
+MeOHSyn,H2,2050,2
+MeOHSyn,CO2,2030,0
+MeOHSyn,CO2,2035,0
+MeOHSyn,CO2,2040,0
+MeOHSyn,CO2,2045,0
+MeOHSyn,CO2,2050,0
+MeOHSyn,Electricity,2030,0.5
+MeOHSyn,Electricity,2035,0.55
+MeOHSyn,Electricity,2040,0.6
+MeOHSyn,Electricity,2045,0.7
+MeOHSyn,Electricity,2050,0.85
+MeOHSyn,LCH2,2030,0.5
+MeOHSyn,LCH2,2035,0.55
+MeOHSyn,LCH2,2040,0.6
+MeOHSyn,LCH2,2045,0.65
+MeOHSyn,LCH2,2050,0.7
+Dac,Electricity,2030,0.5
+Dac,Electricity,2035,0.55
+Dac,Electricity,2040,0.6
+Dac,Electricity,2045,0.7
+Dac,Electricity,2050,0.85
+Btm,Electricity,2030,0.5
+Btm,Electricity,2035,0.55
+Btm,Electricity,2040,0.6
+Btm,Electricity,2045,0.7
+Btm,Electricity,2050,0.85
+Btm,Biomass,2030,0
+Btm,Biomass,2035,0
+Btm,Biomass,2040,0
+Btm,Biomass,2045,0
+Btm,Biomass,2050,0
+Onwind,na,2030,0
+Onwind,na,2035,0
+Onwind,na,2040,0
+Onwind,na,2045,0
+Onwind,na,2050,0
+Offwind,na,2030,0
+Offwind,na,2035,0
+Offwind,na,2040,0
+Offwind,na,2045,0
+Offwind,na,2050,0
+El,Electricity,2030,0.5
+El,Electricity,2035,0.55
+El,Electricity,2040,0.6
+El,Electricity,2045,0.7
+El,Electricity,2050,0.85
+Pv,na,2030,0
+Pv,na,2035,0
+Pv,na,2040,0
+Pv,na,2045,0
+Pv,na,2050,0
+AmCr,Electricity,2030,0.5
+AmCr,Electricity,2035,0.55
+AmCr,Electricity,2040,0.6
+AmCr,Electricity,2045,0.7
+AmCr,Electricity,2050,0.85
+H2Liq,Electricity,2030,0.5
+H2Liq,Electricity,2035,0.55
+H2Liq,Electricity,2040,0.6
+H2Liq,Electricity,2045,0.7
+H2Liq,Electricity,2050,0.85
+H2Eva,Electricity,2030,0.5
+H2Eva,Electricity,2035,0.55
+H2Eva,Electricity,2040,0.6
+H2Eva,Electricity,2045,0.7
+H2Eva,Electricity,2050,0.85
+Conventional ICE,Biodiesel,2030,0
+Conventional ICE,Biodiesel,2035,0
+Conventional ICE,Biodiesel,2040,0
+Conventional ICE,Biodiesel,2045,0
+Conventional ICE,Biodiesel,2050,0
+Conventional ICE,MGO,2030,0
+Conventional ICE,MGO,2035,0
+Conventional ICE,MGO,2040,0
+Conventional ICE,MGO,2045,0
+Conventional ICE,MGO,2050,0
+H2 ICE,H2,2030,3
+H2 ICE,H2,2035,3
+H2 ICE,H2,2040,3
+H2 ICE,H2,2045,3
+H2 ICE,H2,2050,3
+H2 ICE,LCH2,2030,0.5
+H2 ICE,LCH2,2035,0.55
+H2 ICE,LCH2,2040,0.6
+H2 ICE,LCH2,2045,0.65
+H2 ICE,LCH2,2050,0.8
+MeOH ICE,MeOH,2030,3
+MeOH ICE,MeOH,2035,3
+MeOH ICE,MeOH,2040,3
+MeOH ICE,MeOH,2045,3
+MeOH ICE,MeOH,2050,3
+MeOH ICE,LCMeOH,2030,0.5
+MeOH ICE,LCMeOH,2035,0.55
+MeOH ICE,LCMeOH,2040,0.6
+MeOH ICE,LCMeOH,2045,0.65
+MeOH ICE,LCMeOH,2050,0.8
+NH3 ICE,NH3,2030,3
+NH3 ICE,NH3,2035,3
+NH3 ICE,NH3,2040,3
+NH3 ICE,NH3,2045,3
+NH3 ICE,NH3,2050,3
+NH3 ICE,LCNH3,2030,0.5
+NH3 ICE,LCNH3,2035,0.55
+NH3 ICE,LCNH3,2040,0.6
+NH3 ICE,LCNH3,2045,0.65
+NH3 ICE,LCNH3,2050,0.8
+LNG ICE,LNG,2030,0
+LNG ICE,LNG,2035,0
+LNG ICE,LNG,2040,0
+LNG ICE,LNG,2045,0
+LNG ICE,LNG,2050,0
+FT,Electricity,2030,0.5
+FT,Electricity,2035,0.55
+FT,Electricity,2040,0.6
+FT,Electricity,2045,0.7
+FT,Electricity,2050,0.85
+FT,H2,2030,3
+FT,H2,2035,3
+FT,H2,2040,3
+FT,H2,2045,3
+FT,H2,2050,3
+FT,H2,2030,0.5
+FT,H2,2035,0.55
+FT,H2,2040,0.6
+FT,H2,2045,0.65
+FT,H2,2050,0.8
+FT,CO2,2030,0
+FT,CO2,2035,0
+FT,CO2,2040,0
+FT,CO2,2045,0
+FT,CO2,2050,0
+JetEngine,JetA,2035,0
+JetEngine,JetA,2040,0
+JetEngine,JetA,2045,0
+JetEngine,JetA,2050,0
+JetEngine,HEFA,2030,0
+JetEngine,HEFA,2035,0
+JetEngine,HEFA,2040,0
+JetEngine,HEFA,2045,0
+JetEngine,HEFA,2050,0
+JetEngine,E-Kerosene,2030,0
+JetEngine,E-Kerosene,2035,0
+JetEngine,E-Kerosene,2040,0
+JetEngine,E-Kerosene,2045,0
+JetEngine,E-Kerosene,2050,0
+AmCr,NH3,2030,2
+AmCr,NH3,2035,2
+AmCr,NH3,2040,2
+AmCr,NH3,2045,2
+AmCr,NH3,2050,2
+H2Liq,H2,2030,2
+H2Liq,H2,2035,2
+H2Liq,H2,2040,2
+H2Liq,H2,2045,2
+H2Liq,H2,2050,2
+H2gPR,Electricity,2030,0.5
+H2gPR,Electricity,2035,0.55
+H2gPR,Electricity,2040,0.6
+H2gPR,Electricity,2045,0.7
+H2gPR,Electricity,2050,0.85
+H2Eva,LH2,2030,0
+H2Eva,LH2,2035,0
+H2Eva,LH2,2040,0
+H2Eva,LH2,2045,0
+H2Eva,LH2,2050,0
+Esc,Naphtha,2030,0.45
+Esc,Naphtha,2035,0.5
+Esc,Naphtha,2040,0.55
+Esc,Naphtha,2045,0.6
+Esc,Naphtha,2050,0.65
+Esc,Electricity,2030,0.45
+Esc,Electricity,2035,0.5
+Esc,Electricity,2040,0.55
+Esc,Electricity,2045,0.6
+Esc,Electricity,2050,0.65

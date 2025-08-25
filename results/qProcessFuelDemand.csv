@@ -1,0 +1,606 @@
+Industry,Process,Input,Output,Location,Year,Value
+Hvc,Nto/Nta,Naphtha,Aromatics/Olefins,Leverkusen,2030,40.16878929769554
+Hvc,Nto/Nta,Naphtha,Aromatics/Olefins,Leverkusen,2035,3.9221274000834683
+Hvc,Nto/Nta,Naphtha,Aromatics/Olefins,Leverkusen,2040,0.0
+Hvc,Nto/Nta,Naphtha,Aromatics/Olefins,Leverkusen,2045,0.0
+Hvc,Nto/Nta,Naphtha,Aromatics/Olefins,Leverkusen,2050,0.0
+Hvc,Mto/Mta,MeOH,Aromatics/Olefins,Leverkusen,2030,26.631210702304465
+Hvc,Mto/Mta,MeOH,Aromatics/Olefins,Leverkusen,2035,62.877872599916536
+Hvc,Mto/Mta,MeOH,Aromatics/Olefins,Leverkusen,2040,66.8
+Hvc,Mto/Mta,MeOH,Aromatics/Olefins,Leverkusen,2045,66.8
+Hvc,Mto/Mta,MeOH,Aromatics/Olefins,Leverkusen,2050,66.8
+Hvc,Mto/Mta,LCMeOH,Aromatics/Olefins,Leverkusen,2030,0.0
+Hvc,Mto/Mta,LCMeOH,Aromatics/Olefins,Leverkusen,2035,0.0
+Hvc,Mto/Mta,LCMeOH,Aromatics/Olefins,Leverkusen,2040,0.0
+Hvc,Mto/Mta,LCMeOH,Aromatics/Olefins,Leverkusen,2045,0.0
+Hvc,Mto/Mta,LCMeOH,Aromatics/Olefins,Leverkusen,2050,0.0
+Hvc,Mto/Mta,BMeOH,Aromatics/Olefins,Leverkusen,2030,0.0
+Hvc,Mto/Mta,BMeOH,Aromatics/Olefins,Leverkusen,2035,0.0
+Hvc,Mto/Mta,BMeOH,Aromatics/Olefins,Leverkusen,2040,0.0
+Hvc,Mto/Mta,BMeOH,Aromatics/Olefins,Leverkusen,2045,0.0
+Hvc,Mto/Mta,BMeOH,Aromatics/Olefins,Leverkusen,2050,0.0
+Hvc,MeOHSyn,Electricity,MeOH,Leverkusen,2030,10.128180725754925
+Hvc,MeOHSyn,Electricity,MeOH,Leverkusen,2035,25.151149039966615
+Hvc,MeOHSyn,Electricity,MeOH,Leverkusen,2040,26.624672080878746
+Hvc,MeOHSyn,Electricity,MeOH,Leverkusen,2045,26.38635228307563
+Hvc,MeOHSyn,Electricity,MeOH,Leverkusen,2050,26.19569644483314
+Hvc,MeOHSyn,Electricity,LCMeOH,Leverkusen,2030,0.0
+Hvc,MeOHSyn,Electricity,LCMeOH,Leverkusen,2035,0.0
+Hvc,MeOHSyn,Electricity,LCMeOH,Leverkusen,2040,0.0
+Hvc,MeOHSyn,Electricity,LCMeOH,Leverkusen,2045,0.0
+Hvc,MeOHSyn,Electricity,LCMeOH,Leverkusen,2050,0.0
+Hvc,MeOHSyn,LCH2,LCMeOH,Leverkusen,2030,0.0
+Hvc,MeOHSyn,LCH2,LCMeOH,Leverkusen,2035,0.0
+Hvc,MeOHSyn,LCH2,LCMeOH,Leverkusen,2040,0.0
+Hvc,MeOHSyn,LCH2,LCMeOH,Leverkusen,2045,0.0
+Hvc,MeOHSyn,LCH2,LCMeOH,Leverkusen,2050,0.0
+Hvc,MeOHSyn,H2,MeOH,Leverkusen,2030,4.810885844733589
+Hvc,MeOHSyn,H2,MeOH,Leverkusen,2035,11.94679579398414
+Hvc,MeOHSyn,H2,MeOH,Leverkusen,2040,12.646719238417404
+Hvc,MeOHSyn,H2,MeOH,Leverkusen,2045,12.533517334460925
+Hvc,MeOHSyn,H2,MeOH,Leverkusen,2050,12.442955811295741
+Hvc,MeOHSyn,CO2,MeOH,Leverkusen,2030,35.448632540142235
+Hvc,MeOHSyn,CO2,MeOH,Leverkusen,2035,88.02902163988315
+Hvc,MeOHSyn,CO2,MeOH,Leverkusen,2040,93.1863522830756
+Hvc,MeOHSyn,CO2,MeOH,Leverkusen,2045,92.3522329907647
+Hvc,MeOHSyn,CO2,MeOH,Leverkusen,2050,91.68493755691598
+Hvc,MeOHSyn,CO2,LCMeOH,Leverkusen,2030,0.0
+Hvc,MeOHSyn,CO2,LCMeOH,Leverkusen,2035,0.0
+Hvc,MeOHSyn,CO2,LCMeOH,Leverkusen,2040,0.0
+Hvc,MeOHSyn,CO2,LCMeOH,Leverkusen,2045,0.0
+Hvc,MeOHSyn,CO2,LCMeOH,Leverkusen,2050,0.0
+Hvc,Dac,Electricity,CO2,Leverkusen,2030,0.0
+Hvc,Dac,Electricity,CO2,Leverkusen,2035,0.0
+Hvc,Dac,Electricity,CO2,Leverkusen,2040,0.0
+Hvc,Dac,Electricity,CO2,Leverkusen,2045,0.0
+Hvc,Dac,Electricity,CO2,Leverkusen,2050,0.0
+Hvc,Btm,Electricity,BMeOH,Leverkusen,2030,0.0
+Hvc,Btm,Electricity,BMeOH,Leverkusen,2035,0.0
+Hvc,Btm,Electricity,BMeOH,Leverkusen,2040,0.0
+Hvc,Btm,Electricity,BMeOH,Leverkusen,2045,0.0
+Hvc,Btm,Electricity,BMeOH,Leverkusen,2050,0.0
+Hvc,Btm,Biomass,BMeOH,Leverkusen,2030,0.0
+Hvc,Btm,Biomass,BMeOH,Leverkusen,2035,0.0
+Hvc,Btm,Biomass,BMeOH,Leverkusen,2040,0.0
+Hvc,Btm,Biomass,BMeOH,Leverkusen,2045,0.0
+Hvc,Btm,Biomass,BMeOH,Leverkusen,2050,0.0
+Hvc,Esc,Electricity,Aromatics/Olefins,Leverkusen,2030,0.0
+Hvc,Esc,Electricity,Aromatics/Olefins,Leverkusen,2035,0.0
+Hvc,Esc,Electricity,Aromatics/Olefins,Leverkusen,2040,0.0
+Hvc,Esc,Electricity,Aromatics/Olefins,Leverkusen,2045,0.0
+Hvc,Esc,Electricity,Aromatics/Olefins,Leverkusen,2050,0.0
+Hvc,Esc,Naphtha,Aromatics/Olefins,Leverkusen,2030,0.0
+Hvc,Esc,Naphtha,Aromatics/Olefins,Leverkusen,2035,0.0
+Hvc,Esc,Naphtha,Aromatics/Olefins,Leverkusen,2040,0.0
+Hvc,Esc,Naphtha,Aromatics/Olefins,Leverkusen,2045,0.0
+Hvc,Esc,Naphtha,Aromatics/Olefins,Leverkusen,2050,0.0
+Fertilizer,Fertilizer Synthesis,LCNH3,Fertilizer,Ludwigshafen,2030,0.0
+Fertilizer,Fertilizer Synthesis,LCNH3,Fertilizer,Ludwigshafen,2035,0.0
+Fertilizer,Fertilizer Synthesis,LCNH3,Fertilizer,Ludwigshafen,2040,0.0
+Fertilizer,Fertilizer Synthesis,LCNH3,Fertilizer,Ludwigshafen,2045,0.0
+Fertilizer,Fertilizer Synthesis,LCNH3,Fertilizer,Ludwigshafen,2050,0.0
+Fertilizer,Fertilizer Synthesis,HCNH3,Fertilizer,Ludwigshafen,2030,12.830364075449568
+Fertilizer,Fertilizer Synthesis,HCNH3,Fertilizer,Ludwigshafen,2035,27.13093871877826
+Fertilizer,Fertilizer Synthesis,HCNH3,Fertilizer,Ludwigshafen,2040,0.0
+Fertilizer,Fertilizer Synthesis,HCNH3,Fertilizer,Ludwigshafen,2045,0.0
+Fertilizer,Fertilizer Synthesis,HCNH3,Fertilizer,Ludwigshafen,2050,0.0
+Fertilizer,Fertilizer Synthesis,NH3,Fertilizer,Ludwigshafen,2030,28.76963592455043
+Fertilizer,Fertilizer Synthesis,NH3,Fertilizer,Ludwigshafen,2035,14.46906128122174
+Fertilizer,Fertilizer Synthesis,NH3,Fertilizer,Ludwigshafen,2040,41.6
+Fertilizer,Fertilizer Synthesis,NH3,Fertilizer,Ludwigshafen,2045,41.599999999999994
+Fertilizer,Fertilizer Synthesis,NH3,Fertilizer,Ludwigshafen,2050,41.6
+Fertilizer,Hb,Electricity,NH3,Ludwigshafen,2030,37.688223061161075
+Fertilizer,Hb,Electricity,NH3,Ludwigshafen,2035,18.95447027840048
+Fertilizer,Hb,Electricity,NH3,Ludwigshafen,2040,54.49600000000001
+Fertilizer,Hb,Electricity,NH3,Ludwigshafen,2045,54.495999999999995
+Fertilizer,Hb,Electricity,NH3,Ludwigshafen,2050,54.49600000000001
+Fertilizer,Hb,Electricity,LCNH3,Ludwigshafen,2030,0.0
+Fertilizer,Hb,Electricity,LCNH3,Ludwigshafen,2035,0.0
+Fertilizer,Hb,Electricity,LCNH3,Ludwigshafen,2040,0.0
+Fertilizer,Hb,Electricity,LCNH3,Ludwigshafen,2045,0.0
+Fertilizer,Hb,Electricity,LCNH3,Ludwigshafen,2050,0.0
+Fertilizer,Hb,Electricity,HCNH3,Ludwigshafen,2030,16.807776938838934
+Fertilizer,Hb,Electricity,HCNH3,Ludwigshafen,2035,35.541529721599524
+Fertilizer,Hb,Electricity,HCNH3,Ludwigshafen,2040,0.0
+Fertilizer,Hb,Electricity,HCNH3,Ludwigshafen,2045,0.0
+Fertilizer,Hb,Electricity,HCNH3,Ludwigshafen,2050,0.0
+Fertilizer,Hb,LCH2,LCNH3,Ludwigshafen,2030,0.0
+Fertilizer,Hb,LCH2,LCNH3,Ludwigshafen,2035,0.0
+Fertilizer,Hb,LCH2,LCNH3,Ludwigshafen,2040,0.0
+Fertilizer,Hb,LCH2,LCNH3,Ludwigshafen,2045,0.0
+Fertilizer,Hb,LCH2,LCNH3,Ludwigshafen,2050,0.0
+Fertilizer,Hb,H2,NH3,Ludwigshafen,2030,5.178534466419078
+Fertilizer,Hb,H2,NH3,Ludwigshafen,2035,2.604431030619913
+Fertilizer,Hb,H2,NH3,Ludwigshafen,2040,7.488
+Fertilizer,Hb,H2,NH3,Ludwigshafen,2045,7.4879999999999995
+Fertilizer,Hb,H2,NH3,Ludwigshafen,2050,7.488
+Fertilizer,Hb,HCH2,HCNH3,Ludwigshafen,2030,2.3094655335809224
+Fertilizer,Hb,HCH2,HCNH3,Ludwigshafen,2035,4.883568969380087
+Fertilizer,Hb,HCH2,HCNH3,Ludwigshafen,2040,0.0
+Fertilizer,Hb,HCH2,HCNH3,Ludwigshafen,2045,0.0
+Fertilizer,Hb,HCH2,HCNH3,Ludwigshafen,2050,0.0
+Fertilizer,Hb,N,NH3,Ludwigshafen,2030,4.539848548894058
+Fertilizer,Hb,N,NH3,Ludwigshafen,2035,2.2832178701767902
+Fertilizer,Hb,N,NH3,Ludwigshafen,2040,6.56448
+Fertilizer,Hb,N,NH3,Ludwigshafen,2045,6.564479999999999
+Fertilizer,Hb,N,NH3,Ludwigshafen,2050,6.56448
+Fertilizer,Hb,N,LCNH3,Ludwigshafen,2030,0.0
+Fertilizer,Hb,N,LCNH3,Ludwigshafen,2035,0.0
+Fertilizer,Hb,N,LCNH3,Ludwigshafen,2040,0.0
+Fertilizer,Hb,N,LCNH3,Ludwigshafen,2045,0.0
+Fertilizer,Hb,N,LCNH3,Ludwigshafen,2050,0.0
+Fertilizer,Hb,N,HCNH3,Ludwigshafen,2030,2.024631451105942
+Fertilizer,Hb,N,HCNH3,Ludwigshafen,2035,4.281262129823209
+Fertilizer,Hb,N,HCNH3,Ludwigshafen,2040,0.0
+Fertilizer,Hb,N,HCNH3,Ludwigshafen,2045,0.0
+Fertilizer,Hb,N,HCNH3,Ludwigshafen,2050,0.0
+Fertilizer,Asu,Electricity,N,Ludwigshafen,2030,1.6411199999999997
+Fertilizer,Asu,Electricity,N,Ludwigshafen,2035,1.64112
+Fertilizer,Asu,Electricity,N,Ludwigshafen,2040,1.64112
+Fertilizer,Asu,Electricity,N,Ludwigshafen,2045,1.6411199999999997
+Fertilizer,Asu,Electricity,N,Ludwigshafen,2050,1.64112
+Fertilizer,Smr,Gas,HCH2,Ludwigshafen,2030,113.1638111454652
+Fertilizer,Smr,Gas,HCH2,Ludwigshafen,2035,239.2948794996243
+Fertilizer,Smr,Gas,HCH2,Ludwigshafen,2040,0.0
+Fertilizer,Smr,Gas,HCH2,Ludwigshafen,2045,0.0
+Fertilizer,Smr,Gas,HCH2,Ludwigshafen,2050,0.0
+Shipping,Conventional ICE,Biodiesel,Shipping,Hamburg,2030,0.0
+Shipping,Conventional ICE,Biodiesel,Shipping,Hamburg,2035,0.0
+Shipping,Conventional ICE,Biodiesel,Shipping,Hamburg,2040,0.0
+Shipping,Conventional ICE,Biodiesel,Shipping,Hamburg,2045,0.0
+Shipping,Conventional ICE,Biodiesel,Shipping,Hamburg,2050,0.0
+Shipping,Conventional ICE,MGO,Shipping,Hamburg,2030,170.43562493811677
+Shipping,Conventional ICE,MGO,Shipping,Hamburg,2035,157.5774617065147
+Shipping,Conventional ICE,MGO,Shipping,Hamburg,2040,145.54540338942073
+Shipping,Conventional ICE,MGO,Shipping,Hamburg,2045,0.0
+Shipping,Conventional ICE,MGO,Shipping,Hamburg,2050,0.0
+Shipping,H2 ICE,LCH2,Shipping,Hamburg,2030,0.0
+Shipping,H2 ICE,LCH2,Shipping,Hamburg,2035,0.0
+Shipping,H2 ICE,LCH2,Shipping,Hamburg,2040,0.0
+Shipping,H2 ICE,LCH2,Shipping,Hamburg,2045,0.0
+Shipping,H2 ICE,LCH2,Shipping,Hamburg,2050,0.0
+Shipping,H2 ICE,H2,Shipping,Hamburg,2030,0.0
+Shipping,H2 ICE,H2,Shipping,Hamburg,2035,0.0
+Shipping,H2 ICE,H2,Shipping,Hamburg,2040,0.0
+Shipping,H2 ICE,H2,Shipping,Hamburg,2045,0.0
+Shipping,H2 ICE,H2,Shipping,Hamburg,2050,0.0
+Shipping,MeOH ICE,MeOH,Shipping,Hamburg,2030,0.570018812502058
+Shipping,MeOH ICE,MeOH,Shipping,Hamburg,2035,12.52917529334715
+Shipping,MeOH ICE,MeOH,Shipping,Hamburg,2040,12.276060640956297
+Shipping,MeOH ICE,MeOH,Shipping,Hamburg,2045,11.643274009979171
+Shipping,MeOH ICE,MeOH,Shipping,Hamburg,2050,11.137044705197466
+Shipping,MeOH ICE,LCMeOH,Shipping,Hamburg,2030,0.0
+Shipping,MeOH ICE,LCMeOH,Shipping,Hamburg,2035,0.0
+Shipping,MeOH ICE,LCMeOH,Shipping,Hamburg,2040,0.0
+Shipping,MeOH ICE,LCMeOH,Shipping,Hamburg,2045,0.0
+Shipping,MeOH ICE,LCMeOH,Shipping,Hamburg,2050,0.0
+Shipping,NH3 ICE,LCNH3,Shipping,Hamburg,2030,0.0
+Shipping,NH3 ICE,LCNH3,Shipping,Hamburg,2035,0.0
+Shipping,NH3 ICE,LCNH3,Shipping,Hamburg,2040,0.0
+Shipping,NH3 ICE,LCNH3,Shipping,Hamburg,2045,0.0
+Shipping,NH3 ICE,LCNH3,Shipping,Hamburg,2050,0.0
+Shipping,NH3 ICE,NH3,Shipping,Hamburg,2030,0.0
+Shipping,NH3 ICE,NH3,Shipping,Hamburg,2035,1.1732126811323909
+Shipping,NH3 ICE,NH3,Shipping,Hamburg,2040,17.534443667720293
+Shipping,NH3 ICE,NH3,Shipping,Hamburg,2045,43.543227576865156
+Shipping,NH3 ICE,NH3,Shipping,Hamburg,2050,56.02339470451481
+Shipping,LNG ICE,LNG,Shipping,Hamburg,2030,0.0
+Shipping,LNG ICE,LNG,Shipping,Hamburg,2035,0.0
+Shipping,LNG ICE,LNG,Shipping,Hamburg,2040,0.0
+Shipping,LNG ICE,LNG,Shipping,Hamburg,2045,257.1899224896329
+Shipping,LNG ICE,LNG,Shipping,Hamburg,2050,220.67001520334045
+Steel,Bof,Coal,Steel,Duisburg,2030,85.66161721654748
+Steel,Bof,Coal,Steel,Duisburg,2035,0.0
+Steel,Bof,Coal,Steel,Duisburg,2040,0.0
+Steel,Bof,Coal,Steel,Duisburg,2045,0.0
+Steel,Bof,Coal,Steel,Duisburg,2050,0.0
+Steel,Bof,Gas,Steel,Duisburg,2030,34.26464688661899
+Steel,Bof,Gas,Steel,Duisburg,2035,0.0
+Steel,Bof,Gas,Steel,Duisburg,2040,0.0
+Steel,Bof,Gas,Steel,Duisburg,2045,0.0
+Steel,Bof,Gas,Steel,Duisburg,2050,0.0
+Steel,Dri,Electricity,Steel,Duisburg,2030,78.67676556690502
+Steel,Dri,Electricity,Steel,Duisburg,2035,250.0
+Steel,Dri,Electricity,Steel,Duisburg,2040,250.0
+Steel,Dri,Electricity,Steel,Duisburg,2045,250.0
+Steel,Dri,Electricity,Steel,Duisburg,2050,250.0
+Steel,Dri,LCH2,Steel,Duisburg,2030,0.0
+Steel,Dri,LCH2,Steel,Duisburg,2035,0.0
+Steel,Dri,LCH2,Steel,Duisburg,2040,0.0
+Steel,Dri,LCH2,Steel,Duisburg,2045,0.0
+Steel,Dri,LCH2,Steel,Duisburg,2050,0.0
+Steel,Dri,H2,Steel,Duisburg,2030,3.933838278345251
+Steel,Dri,H2,Steel,Duisburg,2035,12.5
+Steel,Dri,H2,Steel,Duisburg,2040,12.5
+Steel,Dri,H2,Steel,Duisburg,2045,12.5
+Steel,Dri,H2,Steel,Duisburg,2050,12.5
+Producer,Hb,Electricity,NH3,Chanaral,2030,0.0
+Producer,Hb,Electricity,NH3,Chanaral,2035,0.0
+Producer,Hb,Electricity,NH3,Chanaral,2040,0.0
+Producer,Hb,Electricity,NH3,Chanaral,2045,0.0
+Producer,Hb,Electricity,NH3,Chanaral,2050,0.0
+Producer,Hb,Electricity,NH3,Teruel,2030,21.7984
+Producer,Hb,Electricity,NH3,Teruel,2035,43.5968
+Producer,Hb,Electricity,NH3,Teruel,2040,58.211813014513616
+Producer,Hb,Electricity,NH3,Teruel,2045,57.24122656550411
+Producer,Hb,Electricity,NH3,Teruel,2050,73.43270695430212
+Producer,Hb,Electricity,LCNH3,Chanaral,2030,0.0
+Producer,Hb,Electricity,LCNH3,Chanaral,2035,0.0
+Producer,Hb,Electricity,LCNH3,Chanaral,2040,0.0
+Producer,Hb,Electricity,LCNH3,Chanaral,2045,0.0
+Producer,Hb,Electricity,LCNH3,Chanaral,2050,0.0
+Producer,Hb,Electricity,LCNH3,Teruel,2030,0.0
+Producer,Hb,Electricity,LCNH3,Teruel,2035,0.0
+Producer,Hb,Electricity,LCNH3,Teruel,2040,0.0
+Producer,Hb,Electricity,LCNH3,Teruel,2045,0.0
+Producer,Hb,Electricity,LCNH3,Teruel,2050,0.0
+Producer,Hb,Electricity,HCNH3,Chanaral,2030,0.0
+Producer,Hb,Electricity,HCNH3,Chanaral,2035,0.0
+Producer,Hb,Electricity,HCNH3,Chanaral,2040,0.0
+Producer,Hb,Electricity,HCNH3,Chanaral,2045,0.0
+Producer,Hb,Electricity,HCNH3,Chanaral,2050,0.0
+Producer,Hb,Electricity,HCNH3,Teruel,2030,0.0
+Producer,Hb,Electricity,HCNH3,Teruel,2035,0.0
+Producer,Hb,Electricity,HCNH3,Teruel,2040,0.0
+Producer,Hb,Electricity,HCNH3,Teruel,2045,0.0
+Producer,Hb,Electricity,HCNH3,Teruel,2050,0.0
+Producer,Hb,LCH2,LCNH3,Chanaral,2030,0.0
+Producer,Hb,LCH2,LCNH3,Chanaral,2035,0.0
+Producer,Hb,LCH2,LCNH3,Chanaral,2040,0.0
+Producer,Hb,LCH2,LCNH3,Chanaral,2045,0.0
+Producer,Hb,LCH2,LCNH3,Chanaral,2050,0.0
+Producer,Hb,LCH2,LCNH3,Teruel,2030,0.0
+Producer,Hb,LCH2,LCNH3,Teruel,2035,0.0
+Producer,Hb,LCH2,LCNH3,Teruel,2040,0.0
+Producer,Hb,LCH2,LCNH3,Teruel,2045,0.0
+Producer,Hb,LCH2,LCNH3,Teruel,2050,0.0
+Producer,Hb,H2,NH3,Chanaral,2030,0.0
+Producer,Hb,H2,NH3,Chanaral,2035,0.0
+Producer,Hb,H2,NH3,Chanaral,2040,0.0
+Producer,Hb,H2,NH3,Chanaral,2045,0.0
+Producer,Hb,H2,NH3,Chanaral,2050,0.0
+Producer,Hb,H2,NH3,Teruel,2030,2.995200000000001
+Producer,Hb,H2,NH3,Teruel,2035,5.9904
+Producer,Hb,H2,NH3,Teruel,2040,7.998569727185076
+Producer,Hb,H2,NH3,Teruel,2045,7.865206703657053
+Producer,Hb,H2,NH3,Teruel,2050,10.089990268530078
+Producer,Hb,HCH2,HCNH3,Chanaral,2030,0.0
+Producer,Hb,HCH2,HCNH3,Chanaral,2035,0.0
+Producer,Hb,HCH2,HCNH3,Chanaral,2040,0.0
+Producer,Hb,HCH2,HCNH3,Chanaral,2045,0.0
+Producer,Hb,HCH2,HCNH3,Chanaral,2050,0.0
+Producer,Hb,HCH2,HCNH3,Teruel,2030,0.0
+Producer,Hb,HCH2,HCNH3,Teruel,2035,0.0
+Producer,Hb,HCH2,HCNH3,Teruel,2040,0.0
+Producer,Hb,HCH2,HCNH3,Teruel,2045,0.0
+Producer,Hb,HCH2,HCNH3,Teruel,2050,0.0
+Producer,Hb,N,NH3,Chanaral,2030,0.0
+Producer,Hb,N,NH3,Chanaral,2035,0.0
+Producer,Hb,N,NH3,Chanaral,2040,0.0
+Producer,Hb,N,NH3,Chanaral,2045,0.0
+Producer,Hb,N,NH3,Chanaral,2050,0.0
+Producer,Hb,N,NH3,Teruel,2030,2.625792
+Producer,Hb,N,NH3,Teruel,2035,5.251584
+Producer,Hb,N,NH3,Teruel,2040,7.01207946083225
+Producer,Hb,N,NH3,Teruel,2045,6.895164543539349
+Producer,Hb,N,NH3,Teruel,2050,8.845558135411354
+Producer,Hb,N,LCNH3,Chanaral,2030,0.0
+Producer,Hb,N,LCNH3,Chanaral,2035,0.0
+Producer,Hb,N,LCNH3,Chanaral,2040,0.0
+Producer,Hb,N,LCNH3,Chanaral,2045,0.0
+Producer,Hb,N,LCNH3,Chanaral,2050,0.0
+Producer,Hb,N,LCNH3,Teruel,2030,0.0
+Producer,Hb,N,LCNH3,Teruel,2035,0.0
+Producer,Hb,N,LCNH3,Teruel,2040,0.0
+Producer,Hb,N,LCNH3,Teruel,2045,0.0
+Producer,Hb,N,LCNH3,Teruel,2050,0.0
+Producer,Hb,N,HCNH3,Chanaral,2030,0.0
+Producer,Hb,N,HCNH3,Chanaral,2035,0.0
+Producer,Hb,N,HCNH3,Chanaral,2040,0.0
+Producer,Hb,N,HCNH3,Chanaral,2045,0.0
+Producer,Hb,N,HCNH3,Chanaral,2050,0.0
+Producer,Hb,N,HCNH3,Teruel,2030,0.0
+Producer,Hb,N,HCNH3,Teruel,2035,0.0
+Producer,Hb,N,HCNH3,Teruel,2040,0.0
+Producer,Hb,N,HCNH3,Teruel,2045,0.0
+Producer,Hb,N,HCNH3,Teruel,2050,0.0
+Producer,Asu,Electricity,N,Chanaral,2030,0.0
+Producer,Asu,Electricity,N,Chanaral,2035,0.0
+Producer,Asu,Electricity,N,Chanaral,2040,0.0
+Producer,Asu,Electricity,N,Chanaral,2045,0.0
+Producer,Asu,Electricity,N,Chanaral,2050,0.0
+Producer,Asu,Electricity,N,Teruel,2030,0.0
+Producer,Asu,Electricity,N,Teruel,2035,0.0
+Producer,Asu,Electricity,N,Teruel,2040,0.0
+Producer,Asu,Electricity,N,Teruel,2045,0.0
+Producer,Asu,Electricity,N,Teruel,2050,0.0
+Producer,MeOHSyn,Electricity,MeOH,Chanaral,2030,0.9395176709984717
+Producer,MeOHSyn,Electricity,MeOH,Chanaral,2035,5.99870241204353
+Producer,MeOHSyn,Electricity,MeOH,Chanaral,2040,5.99870241204353
+Producer,MeOHSyn,Electricity,MeOH,Chanaral,2045,5.99870241204353
+Producer,MeOHSyn,Electricity,MeOH,Chanaral,2050,5.99870241204353
+Producer,MeOHSyn,Electricity,MeOH,Teruel,2030,0.0
+Producer,MeOHSyn,Electricity,MeOH,Teruel,2035,0.0
+Producer,MeOHSyn,Electricity,MeOH,Teruel,2040,0.0
+Producer,MeOHSyn,Electricity,MeOH,Teruel,2045,0.0
+Producer,MeOHSyn,Electricity,MeOH,Teruel,2050,0.0
+Producer,MeOHSyn,Electricity,LCMeOH,Chanaral,2030,0.0
+Producer,MeOHSyn,Electricity,LCMeOH,Chanaral,2035,0.0
+Producer,MeOHSyn,Electricity,LCMeOH,Chanaral,2040,0.0
+Producer,MeOHSyn,Electricity,LCMeOH,Chanaral,2045,0.0
+Producer,MeOHSyn,Electricity,LCMeOH,Chanaral,2050,0.0
+Producer,MeOHSyn,Electricity,LCMeOH,Teruel,2030,0.0
+Producer,MeOHSyn,Electricity,LCMeOH,Teruel,2035,0.0
+Producer,MeOHSyn,Electricity,LCMeOH,Teruel,2040,0.0
+Producer,MeOHSyn,Electricity,LCMeOH,Teruel,2045,0.0
+Producer,MeOHSyn,Electricity,LCMeOH,Teruel,2050,0.0
+Producer,MeOHSyn,LCH2,LCMeOH,Chanaral,2030,0.0
+Producer,MeOHSyn,LCH2,LCMeOH,Chanaral,2035,0.0
+Producer,MeOHSyn,LCH2,LCMeOH,Chanaral,2040,0.0
+Producer,MeOHSyn,LCH2,LCMeOH,Chanaral,2045,0.0
+Producer,MeOHSyn,LCH2,LCMeOH,Chanaral,2050,0.0
+Producer,MeOHSyn,LCH2,LCMeOH,Teruel,2030,0.0
+Producer,MeOHSyn,LCH2,LCMeOH,Teruel,2035,0.0
+Producer,MeOHSyn,LCH2,LCMeOH,Teruel,2040,0.0
+Producer,MeOHSyn,LCH2,LCMeOH,Teruel,2045,0.0
+Producer,MeOHSyn,LCH2,LCMeOH,Teruel,2050,0.0
+Producer,MeOHSyn,H2,MeOH,Chanaral,2030,0.44627089372427403
+Producer,MeOHSyn,H2,MeOH,Chanaral,2035,2.8493836457206765
+Producer,MeOHSyn,H2,MeOH,Chanaral,2040,2.8493836457206765
+Producer,MeOHSyn,H2,MeOH,Chanaral,2045,2.8493836457206765
+Producer,MeOHSyn,H2,MeOH,Chanaral,2050,2.8493836457206765
+Producer,MeOHSyn,H2,MeOH,Teruel,2030,0.0
+Producer,MeOHSyn,H2,MeOH,Teruel,2035,0.0
+Producer,MeOHSyn,H2,MeOH,Teruel,2040,0.0
+Producer,MeOHSyn,H2,MeOH,Teruel,2045,0.0
+Producer,MeOHSyn,H2,MeOH,Teruel,2050,0.0
+Producer,MeOHSyn,CO2,MeOH,Chanaral,2030,3.288311848494651
+Producer,MeOHSyn,CO2,MeOH,Chanaral,2035,20.995458442152355
+Producer,MeOHSyn,CO2,MeOH,Chanaral,2040,20.995458442152355
+Producer,MeOHSyn,CO2,MeOH,Chanaral,2045,20.995458442152355
+Producer,MeOHSyn,CO2,MeOH,Chanaral,2050,20.995458442152355
+Producer,MeOHSyn,CO2,MeOH,Teruel,2030,0.0
+Producer,MeOHSyn,CO2,MeOH,Teruel,2035,0.0
+Producer,MeOHSyn,CO2,MeOH,Teruel,2040,0.0
+Producer,MeOHSyn,CO2,MeOH,Teruel,2045,0.0
+Producer,MeOHSyn,CO2,MeOH,Teruel,2050,0.0
+Producer,MeOHSyn,CO2,LCMeOH,Chanaral,2030,0.0
+Producer,MeOHSyn,CO2,LCMeOH,Chanaral,2035,0.0
+Producer,MeOHSyn,CO2,LCMeOH,Chanaral,2040,0.0
+Producer,MeOHSyn,CO2,LCMeOH,Chanaral,2045,0.0
+Producer,MeOHSyn,CO2,LCMeOH,Chanaral,2050,0.0
+Producer,MeOHSyn,CO2,LCMeOH,Teruel,2030,0.0
+Producer,MeOHSyn,CO2,LCMeOH,Teruel,2035,0.0
+Producer,MeOHSyn,CO2,LCMeOH,Teruel,2040,0.0
+Producer,MeOHSyn,CO2,LCMeOH,Teruel,2045,0.0
+Producer,MeOHSyn,CO2,LCMeOH,Teruel,2050,0.0
+Producer,Dac,Electricity,CO2,Chanaral,2030,3.288311848494651
+Producer,Dac,Electricity,CO2,Chanaral,2035,20.995458442152355
+Producer,Dac,Electricity,CO2,Chanaral,2040,20.995458442152355
+Producer,Dac,Electricity,CO2,Chanaral,2045,20.995458442152355
+Producer,Dac,Electricity,CO2,Chanaral,2050,20.995458442152355
+Producer,Dac,Electricity,CO2,Teruel,2030,0.0
+Producer,Dac,Electricity,CO2,Teruel,2035,0.0
+Producer,Dac,Electricity,CO2,Teruel,2040,0.0
+Producer,Dac,Electricity,CO2,Teruel,2045,0.0
+Producer,Dac,Electricity,CO2,Teruel,2050,0.0
+Producer,Btm,Electricity,BMeOH,Chanaral,2030,0.0
+Producer,Btm,Electricity,BMeOH,Chanaral,2035,0.0
+Producer,Btm,Electricity,BMeOH,Chanaral,2040,0.0
+Producer,Btm,Electricity,BMeOH,Chanaral,2045,0.0
+Producer,Btm,Electricity,BMeOH,Chanaral,2050,0.0
+Producer,Btm,Electricity,BMeOH,Teruel,2030,0.0
+Producer,Btm,Electricity,BMeOH,Teruel,2035,0.0
+Producer,Btm,Electricity,BMeOH,Teruel,2040,0.0
+Producer,Btm,Electricity,BMeOH,Teruel,2045,0.0
+Producer,Btm,Electricity,BMeOH,Teruel,2050,0.0
+Producer,Btm,Biomass,BMeOH,Chanaral,2030,0.0
+Producer,Btm,Biomass,BMeOH,Chanaral,2035,0.0
+Producer,Btm,Biomass,BMeOH,Chanaral,2040,0.0
+Producer,Btm,Biomass,BMeOH,Chanaral,2045,0.0
+Producer,Btm,Biomass,BMeOH,Chanaral,2050,0.0
+Producer,Btm,Biomass,BMeOH,Teruel,2030,0.0
+Producer,Btm,Biomass,BMeOH,Teruel,2035,0.0
+Producer,Btm,Biomass,BMeOH,Teruel,2040,0.0
+Producer,Btm,Biomass,BMeOH,Teruel,2045,0.0
+Producer,Btm,Biomass,BMeOH,Teruel,2050,0.0
+Producer,Onwind,na,Electricity,Chanaral,2030,0.0
+Producer,Onwind,na,Electricity,Chanaral,2035,0.0
+Producer,Onwind,na,Electricity,Chanaral,2040,0.0
+Producer,Onwind,na,Electricity,Chanaral,2045,0.0
+Producer,Onwind,na,Electricity,Chanaral,2050,0.0
+Producer,Onwind,na,Electricity,Teruel,2030,0.0
+Producer,Onwind,na,Electricity,Teruel,2035,0.0
+Producer,Onwind,na,Electricity,Teruel,2040,0.0
+Producer,Onwind,na,Electricity,Teruel,2045,0.0
+Producer,Onwind,na,Electricity,Teruel,2050,0.0
+Producer,El,Electricity,H2,Chanaral,2030,0.44627089372427403
+Producer,El,Electricity,H2,Chanaral,2035,2.8493836457206765
+Producer,El,Electricity,H2,Chanaral,2040,2.8493836457206765
+Producer,El,Electricity,H2,Chanaral,2045,2.8493836457206765
+Producer,El,Electricity,H2,Chanaral,2050,2.8493836457206765
+Producer,El,Electricity,H2,Teruel,2030,5.569303435799166
+Producer,El,Electricity,H2,Teruel,2035,11.13860687159833
+Producer,El,Electricity,H2,Teruel,2040,22.27721374319666
+Producer,El,Electricity,H2,Teruel,2045,40.29616251495279
+Producer,El,Electricity,H2,Teruel,2050,42.52094607982582
+Producer,Pv,na,Electricity,Chanaral,2030,29.568181523702634
+Producer,Pv,na,Electricity,Chanaral,2035,29.84354449991656
+Producer,Pv,na,Electricity,Chanaral,2040,29.84354449991656
+Producer,Pv,na,Electricity,Chanaral,2045,29.84354449991656
+Producer,Pv,na,Electricity,Chanaral,2050,29.84354449991656
+Producer,Pv,na,Electricity,Teruel,2030,57.97682651706398
+Producer,Pv,na,Electricity,Teruel,2035,115.95365303412794
+Producer,Pv,na,Electricity,Teruel,2040,115.95365303412794
+Producer,Pv,na,Electricity,Teruel,2045,115.95365303412794
+Producer,Pv,na,Electricity,Teruel,2050,115.95365303412794
+LC Producer,Hb,Electricity,NH3,Fiska,2030,0.0
+LC Producer,Hb,Electricity,NH3,Fiska,2035,0.0
+LC Producer,Hb,Electricity,NH3,Fiska,2040,0.0
+LC Producer,Hb,Electricity,NH3,Fiska,2045,0.0
+LC Producer,Hb,Electricity,NH3,Fiska,2050,0.0
+LC Producer,Hb,Electricity,LCNH3,Fiska,2030,0.0
+LC Producer,Hb,Electricity,LCNH3,Fiska,2035,0.0
+LC Producer,Hb,Electricity,LCNH3,Fiska,2040,0.0
+LC Producer,Hb,Electricity,LCNH3,Fiska,2045,0.0
+LC Producer,Hb,Electricity,LCNH3,Fiska,2050,0.0
+LC Producer,Hb,Electricity,HCNH3,Fiska,2030,0.0
+LC Producer,Hb,Electricity,HCNH3,Fiska,2035,0.0
+LC Producer,Hb,Electricity,HCNH3,Fiska,2040,0.0
+LC Producer,Hb,Electricity,HCNH3,Fiska,2045,0.0
+LC Producer,Hb,Electricity,HCNH3,Fiska,2050,0.0
+LC Producer,Hb,LCH2,LCNH3,Fiska,2030,0.0
+LC Producer,Hb,LCH2,LCNH3,Fiska,2035,0.0
+LC Producer,Hb,LCH2,LCNH3,Fiska,2040,0.0
+LC Producer,Hb,LCH2,LCNH3,Fiska,2045,0.0
+LC Producer,Hb,LCH2,LCNH3,Fiska,2050,0.0
+LC Producer,Hb,H2,NH3,Fiska,2030,0.0
+LC Producer,Hb,H2,NH3,Fiska,2035,0.0
+LC Producer,Hb,H2,NH3,Fiska,2040,0.0
+LC Producer,Hb,H2,NH3,Fiska,2045,0.0
+LC Producer,Hb,H2,NH3,Fiska,2050,0.0
+LC Producer,Hb,HCH2,HCNH3,Fiska,2030,0.0
+LC Producer,Hb,HCH2,HCNH3,Fiska,2035,0.0
+LC Producer,Hb,HCH2,HCNH3,Fiska,2040,0.0
+LC Producer,Hb,HCH2,HCNH3,Fiska,2045,0.0
+LC Producer,Hb,HCH2,HCNH3,Fiska,2050,0.0
+LC Producer,Hb,N,NH3,Fiska,2030,0.0
+LC Producer,Hb,N,NH3,Fiska,2035,0.0
+LC Producer,Hb,N,NH3,Fiska,2040,0.0
+LC Producer,Hb,N,NH3,Fiska,2045,0.0
+LC Producer,Hb,N,NH3,Fiska,2050,0.0
+LC Producer,Hb,N,LCNH3,Fiska,2030,0.0
+LC Producer,Hb,N,LCNH3,Fiska,2035,0.0
+LC Producer,Hb,N,LCNH3,Fiska,2040,0.0
+LC Producer,Hb,N,LCNH3,Fiska,2045,0.0
+LC Producer,Hb,N,LCNH3,Fiska,2050,0.0
+LC Producer,Hb,N,HCNH3,Fiska,2030,0.0
+LC Producer,Hb,N,HCNH3,Fiska,2035,0.0
+LC Producer,Hb,N,HCNH3,Fiska,2040,0.0
+LC Producer,Hb,N,HCNH3,Fiska,2045,0.0
+LC Producer,Hb,N,HCNH3,Fiska,2050,0.0
+LC Producer,Asu,Electricity,N,Fiska,2030,0.0
+LC Producer,Asu,Electricity,N,Fiska,2035,0.0
+LC Producer,Asu,Electricity,N,Fiska,2040,0.0
+LC Producer,Asu,Electricity,N,Fiska,2045,0.0
+LC Producer,Asu,Electricity,N,Fiska,2050,0.0
+LC Producer,SmrCCTS,Gas,LCH2,Fiska,2030,0.0
+LC Producer,SmrCCTS,Gas,LCH2,Fiska,2035,0.0
+LC Producer,SmrCCTS,Gas,LCH2,Fiska,2040,0.0
+LC Producer,SmrCCTS,Gas,LCH2,Fiska,2045,0.0
+LC Producer,SmrCCTS,Gas,LCH2,Fiska,2050,0.0
+LC Producer,MeOHSyn,Electricity,MeOH,Fiska,2030,0.0
+LC Producer,MeOHSyn,Electricity,MeOH,Fiska,2035,0.0
+LC Producer,MeOHSyn,Electricity,MeOH,Fiska,2040,0.0
+LC Producer,MeOHSyn,Electricity,MeOH,Fiska,2045,0.0
+LC Producer,MeOHSyn,Electricity,MeOH,Fiska,2050,0.0
+LC Producer,MeOHSyn,Electricity,LCMeOH,Fiska,2030,0.0
+LC Producer,MeOHSyn,Electricity,LCMeOH,Fiska,2035,0.0
+LC Producer,MeOHSyn,Electricity,LCMeOH,Fiska,2040,0.0
+LC Producer,MeOHSyn,Electricity,LCMeOH,Fiska,2045,0.0
+LC Producer,MeOHSyn,Electricity,LCMeOH,Fiska,2050,0.0
+LC Producer,MeOHSyn,LCH2,LCMeOH,Fiska,2030,0.0
+LC Producer,MeOHSyn,LCH2,LCMeOH,Fiska,2035,0.0
+LC Producer,MeOHSyn,LCH2,LCMeOH,Fiska,2040,0.0
+LC Producer,MeOHSyn,LCH2,LCMeOH,Fiska,2045,0.0
+LC Producer,MeOHSyn,LCH2,LCMeOH,Fiska,2050,0.0
+LC Producer,MeOHSyn,H2,MeOH,Fiska,2030,0.0
+LC Producer,MeOHSyn,H2,MeOH,Fiska,2035,0.0
+LC Producer,MeOHSyn,H2,MeOH,Fiska,2040,0.0
+LC Producer,MeOHSyn,H2,MeOH,Fiska,2045,0.0
+LC Producer,MeOHSyn,H2,MeOH,Fiska,2050,0.0
+LC Producer,MeOHSyn,CO2,MeOH,Fiska,2030,0.0
+LC Producer,MeOHSyn,CO2,MeOH,Fiska,2035,0.0
+LC Producer,MeOHSyn,CO2,MeOH,Fiska,2040,0.0
+LC Producer,MeOHSyn,CO2,MeOH,Fiska,2045,0.0
+LC Producer,MeOHSyn,CO2,MeOH,Fiska,2050,0.0
+LC Producer,MeOHSyn,CO2,LCMeOH,Fiska,2030,0.0
+LC Producer,MeOHSyn,CO2,LCMeOH,Fiska,2035,0.0
+LC Producer,MeOHSyn,CO2,LCMeOH,Fiska,2040,0.0
+LC Producer,MeOHSyn,CO2,LCMeOH,Fiska,2045,0.0
+LC Producer,MeOHSyn,CO2,LCMeOH,Fiska,2050,0.0
+LC Producer,Dac,Electricity,CO2,Fiska,2030,0.0
+LC Producer,Dac,Electricity,CO2,Fiska,2035,0.0
+LC Producer,Dac,Electricity,CO2,Fiska,2040,0.0
+LC Producer,Dac,Electricity,CO2,Fiska,2045,0.0
+LC Producer,Dac,Electricity,CO2,Fiska,2050,0.0
+LC Producer,Btm,Electricity,BMeOH,Fiska,2030,0.0
+LC Producer,Btm,Electricity,BMeOH,Fiska,2035,0.0
+LC Producer,Btm,Electricity,BMeOH,Fiska,2040,0.0
+LC Producer,Btm,Electricity,BMeOH,Fiska,2045,0.0
+LC Producer,Btm,Electricity,BMeOH,Fiska,2050,0.0
+LC Producer,Btm,Biomass,BMeOH,Fiska,2030,0.0
+LC Producer,Btm,Biomass,BMeOH,Fiska,2035,0.0
+LC Producer,Btm,Biomass,BMeOH,Fiska,2040,0.0
+LC Producer,Btm,Biomass,BMeOH,Fiska,2045,0.0
+LC Producer,Btm,Biomass,BMeOH,Fiska,2050,0.0
+LC Producer,Onwind,na,Electricity,Fiska,2030,0.0
+LC Producer,Onwind,na,Electricity,Fiska,2035,0.0
+LC Producer,Onwind,na,Electricity,Fiska,2040,0.0
+LC Producer,Onwind,na,Electricity,Fiska,2045,0.0
+LC Producer,Onwind,na,Electricity,Fiska,2050,0.0
+LC Producer,Pv,na,Electricity,Fiska,2030,0.0
+LC Producer,Pv,na,Electricity,Fiska,2035,0.0
+LC Producer,Pv,na,Electricity,Fiska,2040,0.0
+LC Producer,Pv,na,Electricity,Fiska,2045,0.0
+LC Producer,Pv,na,Electricity,Fiska,2050,0.0
+Port,AmCr,Electricity,H2,Hamburg,2030,11.397260273972602
+Port,AmCr,Electricity,H2,Hamburg,2035,21.99095021840247
+Port,AmCr,Electricity,H2,Hamburg,2040,18.42606494290496
+Port,AmCr,Electricity,H2,Hamburg,2045,0.09092540664256683
+Port,AmCr,Electricity,H2,Hamburg,2050,0.0
+Port,AmCr,Electricity,H2,Antofagasta,2030,0.0
+Port,AmCr,Electricity,H2,Antofagasta,2035,0.0
+Port,AmCr,Electricity,H2,Antofagasta,2040,0.0
+Port,AmCr,Electricity,H2,Antofagasta,2045,0.0
+Port,AmCr,Electricity,H2,Antofagasta,2050,0.0
+Port,AmCr,NH3,H2,Hamburg,2030,16.64
+Port,AmCr,NH3,H2,Hamburg,2035,32.10678731886761
+Port,AmCr,NH3,H2,Hamburg,2040,26.902054816641247
+Port,AmCr,NH3,H2,Hamburg,2045,0.13275109369814758
+Port,AmCr,NH3,H2,Hamburg,2050,0.0
+Port,AmCr,NH3,H2,Antofagasta,2030,0.0
+Port,AmCr,NH3,H2,Antofagasta,2035,0.0
+Port,AmCr,NH3,H2,Antofagasta,2040,0.0
+Port,AmCr,NH3,H2,Antofagasta,2045,0.0
+Port,AmCr,NH3,H2,Antofagasta,2050,0.0
+Port,H2Liq,Electricity,LH2,Hamburg,2030,0.0
+Port,H2Liq,Electricity,LH2,Hamburg,2035,0.0
+Port,H2Liq,Electricity,LH2,Hamburg,2040,0.0
+Port,H2Liq,Electricity,LH2,Hamburg,2045,0.0
+Port,H2Liq,Electricity,LH2,Hamburg,2050,0.0
+Port,H2Liq,Electricity,LH2,Antofagasta,2030,0.0
+Port,H2Liq,Electricity,LH2,Antofagasta,2035,0.0
+Port,H2Liq,Electricity,LH2,Antofagasta,2040,0.0
+Port,H2Liq,Electricity,LH2,Antofagasta,2045,0.0
+Port,H2Liq,Electricity,LH2,Antofagasta,2050,0.0
+Port,H2Liq,H2,LH2,Hamburg,2030,0.0
+Port,H2Liq,H2,LH2,Hamburg,2035,0.0
+Port,H2Liq,H2,LH2,Hamburg,2040,0.0
+Port,H2Liq,H2,LH2,Hamburg,2045,0.0
+Port,H2Liq,H2,LH2,Hamburg,2050,0.0
+Port,H2Liq,H2,LH2,Antofagasta,2030,0.0
+Port,H2Liq,H2,LH2,Antofagasta,2035,0.0
+Port,H2Liq,H2,LH2,Antofagasta,2040,0.0
+Port,H2Liq,H2,LH2,Antofagasta,2045,0.0
+Port,H2Liq,H2,LH2,Antofagasta,2050,0.0
+Port,H2Eva,Electricity,H2,Hamburg,2030,0.0
+Port,H2Eva,Electricity,H2,Hamburg,2035,0.0
+Port,H2Eva,Electricity,H2,Hamburg,2040,0.0
+Port,H2Eva,Electricity,H2,Hamburg,2045,0.0
+Port,H2Eva,Electricity,H2,Hamburg,2050,0.0
+Port,H2Eva,Electricity,H2,Antofagasta,2030,0.0
+Port,H2Eva,Electricity,H2,Antofagasta,2035,0.0
+Port,H2Eva,Electricity,H2,Antofagasta,2040,0.0
+Port,H2Eva,Electricity,H2,Antofagasta,2045,0.0
+Port,H2Eva,Electricity,H2,Antofagasta,2050,0.0
+Port,H2Eva,LH2,H2,Hamburg,2030,0.0
+Port,H2Eva,LH2,H2,Hamburg,2035,0.0
+Port,H2Eva,LH2,H2,Hamburg,2040,0.0
+Port,H2Eva,LH2,H2,Hamburg,2045,0.0
+Port,H2Eva,LH2,H2,Hamburg,2050,0.0
+Port,H2Eva,LH2,H2,Antofagasta,2030,0.0
+Port,H2Eva,LH2,H2,Antofagasta,2035,0.0
+Port,H2Eva,LH2,H2,Antofagasta,2040,0.0
+Port,H2Eva,LH2,H2,Antofagasta,2045,0.0
+Port,H2Eva,LH2,H2,Antofagasta,2050,0.0

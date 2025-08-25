@@ -1,0 +1,21 @@
+﻿target;year;value;Comment
+Industry;2030;42%;Based on THG-Quote und Mehrfache Anrechenbarkeit von eneuerbaren Krafstoffen nicht biologischen Ursprungs (RFNBO) by Philipp Klughardt
+Transport;2030;1%;
+Maritime;2030;1%;
+aviation;2030;1%;
+Industry;2035;54,67%;
+Transport;2035;24,00%;
+Maritime;2035;24,13%;
+aviation;2035;23,80%;
+Industry;2040;67,33%;
+Transport;2040;47,00%;
+Shipping;2040;47,06%;
+aviation;2040;46,90%;
+Industry;2045;70,50%;
+Transport;2045;52,75%;
+Maritime;2045;52,80%;
+aviation;2045;52,67%;
+Industry;2050;80%;Assumption
+Transport;2050;70%;
+Maritime;2050;70%;
+aviation;2050;70%;

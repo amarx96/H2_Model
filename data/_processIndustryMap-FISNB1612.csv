@@ -1,0 +1,19 @@
+﻿Process;Steel;Fertilizer;Hvc;Shipping;Aviation
+MeOH ICE;0;0;0;1;0
+Conventional ICE;0;0;0;1;0
+NH3 ICE;0;0;0;1;0
+H2 ICE;0;0;0;1;0
+LNG ICE;0;0;0;1;0
+Hb;0;1;0;0;0
+Smr;0;1;0;0;0
+Nitrification;0;1;0;0;0
+Bof;1;0;0;0;0
+Dri;1;0;0;0;0
+Rwgs;0;0;1;0;0
+MeOHSyn1;0;0;1;0;0
+MeOHSyn2;0;0;1;0;0
+Asu;0;0;1;0;0
+Nto;0;0;1;0;0
+Nta;0;0;1;0;0
+Mto;0;0;1;0;0
+Mta;0;0;1;0;0

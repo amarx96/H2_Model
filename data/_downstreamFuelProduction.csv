@@ -1,0 +1,8 @@
+﻿Process,Input,Output,Value
+Smr,Gas,H2,3.2
+MeOhSyn1,H2,MeOH,0.0756
+MeOhSyn2,CO,MeOH,0.1
+MeOHSyn2,H2,MeOH,0.1134
+MeOhSyn2,CO2,MeOH,0.11
+RWGS,CO2,CO,0.25
+FT,H2,E-Kerosene,0.27

@@ -1,0 +1,22 @@
+﻿Process,Fuel,Value
+Conventional ICE,MGO,1
+Conventional ICE,Biodiesel,1
+Dri,H2,1
+Dri,LCH2,1
+MeOH ICE,MeOH,1
+MeOH ICE,BMeOH,1
+MeOH ICE,LCMeOH,1
+H2 ICE,H2,1
+H2 ICE,LCH2,1
+NH3 ICE,NH3,1
+NH3 ICE,LCNH3,1
+Fertilizer Synthesis,NH3,1
+Fertilizer Synthesis,LCNH3,1
+Fertilizer Synthesis,HCNH3,1
+Mto/Mta,MeOH,1
+Mto/Mta,LCMeOH,1
+Mto/Mta,BMeOH,1
+JetEngine,JetA,1
+JetEngine,HEFA,1
+JetEngine,LCFT,1
+JetEngine,FT,1

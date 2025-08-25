@@ -1,0 +1,12 @@
+﻿Commodity,Mode,Losses
+LH2,shipping,0.00009700
+NH3,shipping,0.00153900
+MeOH,shipping,0.00008800
+LH2,pipeline,0.001
+NH3,pipeline,0.1
+MeOH,pipeline,0.01463994
+H2,pipeline,0.001
+NH3,submarine,0.1
+MeOH,submarine,0.01463994
+H2,submarine,0.001
+H2,submarine,0.1

@@ -1,0 +1,33 @@
+﻿Process;Year;Location;Paramter;Unit;LCOE;Source;Comment;
+Solar PV;2030;ES;LCOE;EUR/Mwhel;41,7;;;
+Wind Onshore;2030;GER;LCOE;EUR/Mwhel;68,1;;LCOE Database, Renewable Ninjas,Fraunhofer ISE;LCOE from LCOE database with discount factor of 3%, capacity factorsfrom renewable ninjas, checked with daata from Fraunhofer ISE (https://www.ise.fraunhofer.de/en/press-media/press-releases/2021/levelized-cost-of-electricity-renewables-clearly-superior-to-conventional-power-plants-due-to-rising-co2-prices.html)
+Wind Onshore;2035;GER;LCOE;EUR/Mwhel;50,4;;LCOE Database, Renewable Ninjas,Fraunhofer ISE;LCOE from LCOE database with discount factor of 3%, capacity factorsfrom renewable ninjas, checked with daata from Fraunhofer ISE (https://www.ise.fraunhofer.de/en/press-media/press-releases/2021/levelized-cost-of-electricity-renewables-clearly-superior-to-conventional-power-plants-due-to-rising-co2-prices.html)
+Wind Onshore;2040;GER;LCOE;EUR/Mwhel;50,4;;LCOE Database, Renewable Ninjas,Fraunhofer ISE;LCOE from LCOE database with discount factor of 3%, capacity factorsfrom renewable ninjas, checked with daata from Fraunhofer ISE (https://www.ise.fraunhofer.de/en/press-media/press-releases/2021/levelized-cost-of-electricity-renewables-clearly-superior-to-conventional-power-plants-due-to-rising-co2-prices.html)
+Wind Onshore;2045;GER;LCOE;EUR/Mwhel;43,2;;LCOE Database, Renewable Ninjas,Fraunhofer ISE;LCOE from LCOE database with discount factor of 3%, capacity factorsfrom renewable ninjas, checked with daata from Fraunhofer ISE (https://www.ise.fraunhofer.de/en/press-media/press-releases/2021/levelized-cost-of-electricity-renewables-clearly-superior-to-conventional-power-plants-due-to-rising-co2-prices.html)
+Wind Onshore;2050;GER;LCOE;EUR/Mwhel;43,2;;LCOE Database, Renewable Ninjas,Fraunhofer ISE;LCOE from LCOE database with discount factor of 3%, capacity factorsfrom renewable ninjas, checked with daata from Fraunhofer ISE (https://www.ise.fraunhofer.de/en/press-media/press-releases/2021/levelized-cost-of-electricity-renewables-clearly-superior-to-conventional-power-plants-due-to-rising-co2-prices.html)
+Wind Onshore;2030;ESP;LCOE;EUR/Mwhel;80,3;;LCOE Database, Renewable Ninjas,Fraunhofer ISE;LCOE from LCOE database with discount factor of 3%, capacity factorsfrom renewable ninjas, checked with daata from Fraunhofer ISE (https://www.ise.fraunhofer.de/en/press-media/press-releases/2021/levelized-cost-of-electricity-renewables-clearly-superior-to-conventional-power-plants-due-to-rising-co2-prices.html)
+Wind Onshore;2035;ESP;LCOE;EUR/Mwhel;59,5;;LCOE Database, Renewable Ninjas,Fraunhofer ISE;LCOE from LCOE database with discount factor of 3%, capacity factorsfrom renewable ninjas, checked with daata from Fraunhofer ISE (https://www.ise.fraunhofer.de/en/press-media/press-releases/2021/levelized-cost-of-electricity-renewables-clearly-superior-to-conventional-power-plants-due-to-rising-co2-prices.html)
+Wind Onshore;2040;ESP;LCOE;EUR/Mwhel;59,5;;LCOE Database, Renewable Ninjas,Fraunhofer ISE;LCOE from LCOE database with discount factor of 3%, capacity factorsfrom renewable ninjas, checked with daata from Fraunhofer ISE (https://www.ise.fraunhofer.de/en/press-media/press-releases/2021/levelized-cost-of-electricity-renewables-clearly-superior-to-conventional-power-plants-due-to-rising-co2-prices.html)
+Wind Onshore;2045;ESP;LCOE;EUR/Mwhel;38,7;;LCOE Database, Renewable Ninjas,Fraunhofer ISE;LCOE from LCOE database with discount factor of 3%, capacity factorsfrom renewable ninjas, checked with daata from Fraunhofer ISE (https://www.ise.fraunhofer.de/en/press-media/press-releases/2021/levelized-cost-of-electricity-renewables-clearly-superior-to-conventional-power-plants-due-to-rising-co2-prices.html)
+Wind Onshore;2050;ESP;LCOE;EUR/Mwhel;38,7;;LCOE Database, Renewable Ninjas,Fraunhofer ISE;LCOE from LCOE database with discount factor of 3%, capacity factorsfrom renewable ninjas, checked with daata from Fraunhofer ISE (https://www.ise.fraunhofer.de/en/press-media/press-releases/2021/levelized-cost-of-electricity-renewables-clearly-superior-to-conventional-power-plants-due-to-rising-co2-prices.html)
+Wind Onshore;2030;CHL;LCOE;EUR/Mwhel;61,4;;;
+Wind Onshore;2035;CHL;LCOE;EUR/Mwhel;52,4;;;
+Wind Onshore;2040;CHL;LCOE;EUR/Mwhel;52,4;;;
+Wind Onshore;2045;CHL;LCOE;EUR/Mwhel;44,3;;;
+Wind Onshore;2050;CHL;LCOE;EUR/Mwhel;44,3;;;
+Solar PV;2030;GER;LCOE;EUR/Mwhel;61,0;;;
+Solar PV;2035;GER;LCOE;EUR/Mwhel;41,7;;;
+Solar PV;2040;GER;LCOE;EUR/Mwhel;41,7;;;
+Solar PV;2045;GER;LCOE;EUR/Mwhel;30,0;;;
+Solar PV;2050;GER;LCOE;EUR/Mwhel;30,0;;;
+Solar PV;2030;CHL;LCOE;EUR/Mwhel;18;;Reneable Power Generation Costs in 2022;
+Solar PV;2035;CHL;LCOE;EUR/Mwhel;14,8;;;
+Solar PV;2040;CHL;LCOE;EUR/Mwhel;11,5;;;
+Solar PV;2045;CHL;LCOE;EUR/Mwhel;8,3;;;
+Solar PV;2050;CHL;LCOE;EUR/Mwhel;5,0;;;
+Wind Offshore;2030;CHL;LCOE;EUR/Mwhel;40,0;;;
+Wind Offshore;2035;CHL;LCOE;EUR/Mwhel;36,0;;;
+Wind Offshore;2040;CHL;LCOE;EUR/Mwhel;32,0;;;
+Wind Offshore;2045;CHL;LCOE;EUR/Mwhel;20,0;;;
+Wind Offshore;2050;CHL;LCOE;EUR/Mwhel;24,0;https://www.mdpi.com/2071-1050/13/13/7013#B64-sustainability-13-07013;Towards a Future Scenario for Offshore Wind Energy in Chile: Breaking the Paradigm;
+;;;;;;;;

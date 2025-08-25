@@ -1,0 +1,14 @@
+﻿Process,Fuel,Value
+Conventional ICE,MGO,1
+Conventional ICE,Biodiesel,1
+MeOH ICE,MeOH,1
+MeOH ICE,BMeOH,1
+Hb,H2,1
+Hb,LCH2,1
+Hb,HCH2,1
+Fertilizer Synthesis,NH3,1
+Fertilizer Synthesis,LCNH3,1
+Fertilizer Synthesis,HCNH3,1
+Mto/Mta,MeOH,1
+Mto/Mta,LCMeOH,1
+Mto/Mta,BMeOH,1

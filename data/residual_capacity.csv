@@ -1,0 +1,26 @@
+﻿Industry,Good,Location,Year,Share demand/ capacity
+Shipping,Conventional ICE,Hamburg,2030,1713
+Shipping,Conventional ICE,Hamburg,2035,886
+Shipping,Conventional ICE,Hamburg,2040,214
+Shipping,Conventional ICE,Hamburg,2045,0
+Shipping,Conventional ICE,Hamburg,2050,0
+Hvc,Nto/Nta,Leverkusen,2030,1674
+Hvc,Nto/Nta,Leverkusen,2035,1877
+Hvc,Nto/Nta,Leverkusen,2040,284
+Hvc,Nto/Nta,Leverkusen,2045,0
+Hvc,Nto/Nta,Leverkusen,2050,0
+Fertilizer,Smr,Ludwigshafen,2030,1300
+Fertilizer,Smr,Ludwigshafen,2035,1300
+Fertilizer,Smr,Ludwigshafen,2040,0
+Fertilizer,Smr,Ludwigshafen,2045,0
+Fertilizer,Smr,Ludwigshafen,2050,0
+Aviation,Jet Engine,Frankfurt,2030,2800
+Aviation,Jet Engine,Frankfurt,2035,2800
+Aviation,Jet Engine,Frankfurt,2040,2800
+Aviation,Jet Engine,Frankfurt,2045,2800
+Aviation,Jet Engine,Frankfurt,2050,2800
+Steel,Bof,Duisburg,2030,2500
+Steel,Bof,Duisburg,2035,621
+Steel,Bof,Duisburg,2040,0
+Steel,Bof,Duisburg,2045,0
+Steel,Bof,Duisburg,2050,0

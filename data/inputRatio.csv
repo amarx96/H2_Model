@@ -1,0 +1,310 @@
+﻿Process,Input,Output,Year,Value
+Bof,Coal,Steel,2030,0.5
+Bof,Coal,Steel,2035,0.5
+Bof,Coal,Steel,2040,0.5
+Bof,Coal,Steel,2045,0.5
+Bof,Coal,Steel,2050,0.5
+Bof,Gas,Steel,2030,0.2
+Bof,Gas,Steel,2035,0.2
+Bof,Gas,Steel,2040,0.2
+Bof,Gas,Steel,2045,0.2
+Bof,Gas,Steel,2050,0.2
+Dri,Electricity,Steel,2030,1
+Dri,Electricity,Steel,2035,1
+Dri,Electricity,Steel,2040,1
+Dri,Electricity,Steel,2045,1
+Dri,Electricity,Steel,2050,1
+Dri,H2,Steel,2030,0.05
+Dri,H2,Steel,2035,0.05
+Dri,H2,Steel,2040,0.05
+Dri,H2,Steel,2045,0.05
+Dri,H2,Steel,2050,0.05
+Fertilizer Synthesis,LCNH3,Fertilizer,2030,0.32
+Fertilizer Synthesis,LCNH3,Fertilizer,2035,0.32
+Fertilizer Synthesis,LCNH3,Fertilizer,2040,0.32
+Fertilizer Synthesis,LCNH3,Fertilizer,2045,0.32
+Fertilizer Synthesis,LCNH3,Fertilizer,2050,0.32
+Fertilizer Synthesis,HCNH3,Fertilizer,2030,0.32
+Fertilizer Synthesis,HCNH3,Fertilizer,2035,0.32
+Fertilizer Synthesis,HCNH3,Fertilizer,2040,0.32
+Fertilizer Synthesis,HCNH3,Fertilizer,2045,0.32
+Fertilizer Synthesis,HCNH3,Fertilizer,2050,0.32
+Fertilizer Synthesis,NH3,Fertilizer,2030,0.32
+Fertilizer Synthesis,NH3,Fertilizer,2035,0.32
+Fertilizer Synthesis,NH3,Fertilizer,2040,0.32
+Fertilizer Synthesis,NH3,Fertilizer,2045,0.32
+Fertilizer Synthesis,NH3,Fertilizer,2050,0.32
+Hb,H2,NH3,2030,0.18
+Hb,H2,NH3,2035,0.18
+Hb,H2,NH3,2040,0.18
+Hb,H2,NH3,2045,0.18
+Hb,H2,NH3,2050,0.18
+Hb,LCH2,LCNH3,2030,0.18
+Hb,LCH2,LCNH3,2035,0.18
+Hb,LCH2,LCNH3,2040,0.18
+Hb,LCH2,LCNH3,2045,0.18
+Hb,LCH2,LCNH3,2050,0.18
+Hb,HCH2,HCNH3,2030,0.18
+Hb,HCH2,HCNH3,2035,0.18
+Hb,HCH2,HCNH3,2040,0.18
+Hb,HCH2,HCNH3,2045,0.18
+Hb,HCH2,HCNH3,2050,0.18
+Hb,Electricity,NH3,2030,1.31
+Hb,Electricity,NH3,2035,1.31
+Hb,Electricity,NH3,2040,1.31
+Hb,Electricity,NH3,2045,1.31
+Hb,Electricity,NH3,2050,1.31
+Hb,Electricity,LCNH3,2030,1.31
+Hb,Electricity,LCNH3,2035,1.31
+Hb,Electricity,LCNH3,2040,1.31
+Hb,Electricity,LCNH3,2045,1.31
+Hb,Electricity,LCNH3,2050,1.31
+Hb,Electricity,HCNH3,2030,1.31
+Hb,Electricity,HCNH3,2035,1.31
+Hb,Electricity,HCNH3,2040,1.31
+Hb,Electricity,HCNH3,2045,1.31
+Hb,Electricity,HCNH3,2050,1.31
+Hb,N,NH3,2030,0.1578
+Hb,N,NH3,2035,0.1578
+Hb,N,NH3,2040,0.1578
+Hb,N,NH3,2045,0.1578
+Hb,N,NH3,2050,0.1578
+Hb,N,LCNH3,2030,0.1578
+Hb,N,LCNH3,2035,0.1578
+Hb,N,LCNH3,2040,0.1578
+Hb,N,LCNH3,2045,0.1578
+Hb,N,LCNH3,2050,0.1578
+Hb,N,HCNH3,2030,0.1578
+Hb,N,HCNH3,2035,0.1578
+Hb,N,HCNH3,2040,0.1578
+Hb,N,HCNH3,2045,0.1578
+Hb,N,HCNH3,2050,0.1578
+Smr,Gas,HCH2,2030,49
+Smr,Gas,HCH2,2035,49
+Smr,Gas,HCH2,2040,49
+Smr,Gas,HCH2,2045,49
+Smr,Gas,HCH2,2050,49
+SmrCCTS,Gas,LCH2,2030,56.21
+SmrCCTS,Gas,LCH2,2035,56.21
+SmrCCTS,Gas,LCH2,2040,56.21
+SmrCCTS,Gas,LCH2,2045,56.21
+SmrCCTS,Gas,LCH2,2050,56.21
+Nto/Nta,Naphtha,Olefins/Aromatics,2030,0.44
+Nto/Nta,Naphtha,Olefins/Aromatics,2035,0.44
+Nto/Nta,Naphtha,Olefins/Aromatics,2040,0.44
+Nto/Nta,Naphtha,Olefins/Aromatics,2045,0.44
+Nto/Nta,Naphtha,Olefins/Aromatics,2050,0.44
+Mto/Mta,MeOH,Olefins/Aromatics,2030,1
+Mto/Mta,MeOH,Olefins/Aromatics,2035,0.44
+Mto/Mta,MeOH,Olefins/Aromatics,2040,0.44
+Mto/Mta,MeOH,Olefins/Aromatics,2045,0.44
+Mto/Mta,MeOH,Olefins/Aromatics,2050,0.44
+Mto/Mta,LCMeOH,Olefins/Aromatics,2030,1
+Mto/Mta,LCMeOH,Olefins/Aromatics,2035,0.44
+Mto/Mta,LCMeOH,Olefins/Aromatics,2040,0.44
+Mto/Mta,LCMeOH,Olefins/Aromatics,2045,0.44
+Mto/Mta,LCMeOH,Olefins/Aromatics,2050,0.44
+Mto/Mta,BMeOH,Olefins/Aromatics,2030,1
+Mto/Mta,BMeOH,Olefins/Aromatics,2035,0.44
+Mto/Mta,BMeOH,Olefins/Aromatics,2040,0.44
+Mto/Mta,BMeOH,Olefins/Aromatics,2045,0.44
+Mto/Mta,BMeOH,Olefins/Aromatics,2050,0.44
+MeOHSyn,H2,MeOH,2030,0.19
+MeOHSyn,H2,MeOH,2035,0.19
+MeOHSyn,H2,MeOH,2040,0.19
+MeOHSyn,H2,MeOH,2045,0.19
+MeOHSyn,H2,MeOH,2050,0.19
+MeOHSyn,CO2,MeOH,2030,1.373
+MeOHSyn,CO2,MeOH,2035,1.373
+MeOHSyn,CO2,MeOH,2040,1.373
+MeOHSyn,CO2,MeOH,2045,1.373
+MeOHSyn,CO2,MeOH,2050,1.373
+MeOHSyn,Electricity,MeOH,2030,0.425
+MeOHSyn,Electricity,MeOH,2035,0.425
+MeOHSyn,Electricity,MeOH,2040,0.425
+MeOHSyn,Electricity,MeOH,2045,0.425
+MeOHSyn,Electricity,MeOH,2050,0.425
+MeOHSyn,LCH2,LCMeOH,2030,0.19
+MeOHSyn,LCH2,LCMeOH,2035,0.19
+MeOHSyn,LCH2,LCMeOH,2040,0.19
+MeOHSyn,LCH2,LCMeOH,2045,0.19
+MeOHSyn,LCH2,LCMeOH,2050,0.19
+MeOHSyn,CO2,LCMeOH,2030,1.373
+MeOHSyn,CO2,LCMeOH,2035,1.373
+MeOHSyn,CO2,LCMeOH,2040,1.373
+MeOHSyn,CO2,LCMeOH,2045,1.373
+MeOHSyn,CO2,LCMeOH,2050,1.373
+MeOHSyn,Electricity,LCMeOH,2030,0.425
+MeOHSyn,Electricity,LCMeOH,2035,0.425
+MeOHSyn,Electricity,LCMeOH,2040,0.425
+MeOHSyn,Electricity,LCMeOH,2045,0.425
+MeOHSyn,Electricity,LCMeOH,2050,0.425
+Dac,Electricity,CO2,2030,1
+Dac,Electricity,CO2,2035,1
+Dac,Electricity,CO2,2040,1
+Dac,Electricity,CO2,2045,1
+Dac,Electricity,CO2,2050,1
+Btm,Electricity,BMeOH,2030,1
+Btm,Electricity,BMeOH,2035,1
+Btm,Electricity,BMeOH,2040,1
+Btm,Electricity,BMeOH,2045,1
+Btm,Electricity,BMeOH,2050,1
+Btm,Biomass,BMeOH,2030,24.26
+Btm,Biomass,BMeOH,2035,23.47
+Btm,Biomass,BMeOH,2040,22.78
+Btm,Biomass,BMeOH,2045,22.78
+Btm,Biomass,BMeOH,2050,22.09
+Dac,Electricity,CO2,2030,1
+Dac,Electricity,CO2,2035,1
+Dac,Electricity,CO2,2040,1
+Dac,Electricity,CO2,2045,1
+Dac,Electricity,CO2,2050,1
+Onwind,na,Electricity,2030,1
+Onwind,na,Electricity,2035,1
+Onwind,na,Electricity,2040,1
+Onwind,na,Electricity,2045,1
+Onwind,na,Electricity,2050,1
+Onwind,na,Electricity,2030,1
+Onwind,na,Electricity,2035,1
+Onwind,na,Electricity,2040,1
+Onwind,na,Electricity,2045,1
+Onwind,na,Electricity,2050,1
+Onwind,na,Electricity,2030,1
+Onwind,na,Electricity,2035,1
+Onwind,na,Electricity,2040,1
+Onwind,na,Electricity,2045,1
+Onwind,na,Electricity,2050,1
+Offwind,na,Electricity,2030,1
+Offwind,na,Electricity,2035,1
+Offwind,na,Electricity,2040,1
+Offwind,na,Electricity,2045,1
+Offwind,na,Electricity,2050,1
+Offwind,na,Electricity,2030,1
+Offwind,na,Electricity,2035,1
+Offwind,na,Electricity,2040,1
+Offwind,na,Electricity,2045,1
+Offwind,na,Electricity,2050,1
+Offwind,na,Electricity,2030,1
+Offwind,na,Electricity,2035,1
+Offwind,na,Electricity,2040,1
+Offwind,na,Electricity,2045,1
+Offwind,na,Electricity,2050,1
+Wind,na,Electricity,2030,1
+Wind,na,Electricity,2035,1
+Wind,na,Electricity,2040,1
+Wind,na,Electricity,2045,1
+Wind,na,Electricity,2050,1
+Wind,na,Electricity,2030,1
+Wind,na,Electricity,2035,1
+Wind,na,Electricity,2040,1
+Wind,na,Electricity,2045,1
+Wind,na,Electricity,2050,1
+Wind,na,Electricity,2030,1
+Wind,na,Electricity,2035,1
+Wind,na,Electricity,2040,1
+Wind,na,Electricity,2045,1
+Wind,na,Electricity,2050,1
+El,Electricity,H2,2030,1
+El,Electricity,H2,2035,1
+El,Electricity,H2,2040,1
+El,Electricity,H2,2045,1
+El,Electricity,H2,2050,1
+Pv,na,Electricity,2030,1
+Pv,na,Electricity,2035,1
+Pv,na,Electricity,2040,1
+Pv,na,Electricity,2045,1
+Pv,na,Electricity,2050,1
+Pv,na,Electricity,2030,1
+Pv,na,Electricity,2035,1
+Pv,na,Electricity,2040,1
+Pv,na,Electricity,2045,1
+Pv,na,Electricity,2050,1
+Pv,na,Electricity,2030,1
+Pv,na,Electricity,2035,1
+Pv,na,Electricity,2040,1
+Pv,na,Electricity,2045,1
+Pv,na,Electricity,2050,1
+AmCr,Electricity,H2,2030,1
+AmCr,Electricity,H2,2035,1
+AmCr,Electricity,H2,2040,1
+AmCr,Electricity,H2,2045,1
+AmCr,Electricity,H2,2050,1
+H2Liq,Electricity,LH2,2030,1
+H2Liq,Electricity,LH2,2035,1
+H2Liq,Electricity,LH2,2040,1
+H2Liq,Electricity,LH2,2045,1
+H2Liq,Electricity,LH2,2050,1
+H2Eva,Electricity,H2,2030,1
+H2Eva,Electricity,H2,2035,1
+H2Eva,Electricity,H2,2040,1
+H2Eva,Electricity,H2,2045,1
+H2Eva,Electricity,H2,2050,1
+Conventional ICE,Biodiesel,Shipping,2030,1
+Conventional ICE,Biodiesel,Shipping,2035,1
+Conventional ICE,Biodiesel,Shipping,2040,1
+Conventional ICE,Biodiesel,Shipping,2045,1
+Conventional ICE,Biodiesel,Shipping,2050,1
+Conventional ICE,MGO,Shipping,2030,1
+Conventional ICE,MGO,Shipping,2035,1
+Conventional ICE,MGO,Shipping,2040,1
+Conventional ICE,MGO,Shipping,2045,1
+Conventional ICE,MGO,Shipping,2050,1
+H2 ICE,H2,Shipping,2030,1.63
+H2 ICE,H2,Shipping,2035,1.64
+H2 ICE,H2,Shipping,2040,1.64
+H2 ICE,H2,Shipping,2045,1.56
+H2 ICE,H2,Shipping,2050,1.47
+MeOH ICE,MeOH,Shipping,2030,1.01
+MeOH ICE,MeOH,Shipping,2035,0.99
+MeOH ICE,MeOH,Shipping,2040,0.97
+MeOH ICE,MeOH,Shipping,2045,0.92
+MeOH ICE,MeOH,Shipping,2050,0.88
+NH3 ICE,NH3,Shipping,2030,1.68
+NH3 ICE,NH3,Shipping,2035,1.53
+NH3 ICE,NH3,Shipping,2040,1.37
+NH3 ICE,NH3,Shipping,2045,1.3
+NH3 ICE,NH3,Shipping,2050,1.24
+Conventional ICE,MGO,Shipping,2030,1
+Conventional ICE,MGO,Shipping,2035,1
+Conventional ICE,MGO,Shipping,2040,1
+Conventional ICE,MGO,Shipping,2045,0.95
+Conventional ICE,MGO,Shipping,2050,0.9
+Conventional ICE,Biodiesel,Shipping,2030,1
+Conventional ICE,Biodiesel,Shipping,2035,1
+Conventional ICE,Biodiesel,Shipping,2040,1
+Conventional ICE,Biodiesel,Shipping,2045,0.95
+Conventional ICE,Biodiesel,Shipping,2050,0.9
+LNG ICE,LNG,Shipping,2030,2.22
+LNG ICE,LNG,Shipping,2035,2.19
+LNG ICE,LNG,Shipping,2040,2.17
+LNG ICE,LNG,Shipping,2045,2.06
+LNG ICE,LNG,Shipping,2050,1.95
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,

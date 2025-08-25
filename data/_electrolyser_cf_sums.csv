@@ -1,0 +1,13 @@
+quarter,Quarterly Sum,file_name
+2011-03-31 00:00:00+00:00,169.9415277777778,_electrolyser_potential_chl_atacama.csv
+2011-06-30 00:00:00+00:00,149.99560185185186,_electrolyser_potential_chl_atacama.csv
+2011-09-30 00:00:00+00:00,155.3486574074074,_electrolyser_potential_chl_atacama.csv
+2011-12-31 00:00:00+00:00,177.13041666666666,_electrolyser_potential_chl_atacama.csv
+2011-03-31 00:00:00+00:00,151.65282407407406,_electrolyser_potential_nam_benguela.csv
+2011-06-30 00:00:00+00:00,164.90796296296296,_electrolyser_potential_nam_benguela.csv
+2011-09-30 00:00:00+00:00,174.56939814814814,_electrolyser_potential_nam_benguela.csv
+2011-12-31 00:00:00+00:00,161.01916666666665,_electrolyser_potential_nam_benguela.csv
+2011-03-31 00:00:00+00:00,157.05064814814816,_electrolyser_potential_sau_tabuk.csv
+2011-06-30 00:00:00+00:00,170.8188425925926,_electrolyser_potential_sau_tabuk.csv
+2011-09-30 00:00:00+00:00,168.88384259259257,_electrolyser_potential_sau_tabuk.csv
+2011-12-31 00:00:00+00:00,155.30092592592592,_electrolyser_potential_sau_tabuk.csv

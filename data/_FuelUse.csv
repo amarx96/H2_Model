@@ -1,0 +1,143 @@
+﻿Fuel,Industry,FuelUse
+H2,Steel,1
+LCH2,Steel,1
+HCH2,Steel,1
+NH3,Steel,0
+MeOH,Steel,0
+E-Kerosene,Steel,0
+FT,Steel,0
+Gas,Steel,1
+Coal,Steel,1
+MGO,Steel,0
+BtL,Steel,0
+LNG,Steel,0
+Biodiesel,Steel,0
+HEFA,Steel,0
+JetA,Steel,0
+Naphtha,Steel,0
+Electricity,Steel,1
+CO2,Steel,0
+CO,Steel,0
+H2,Fertilizer,1
+LCH2,Fertilizer,1
+HCH2,Fertilizer,1
+N,Fertilizer,1
+NH3,Fertilizer,1
+MeOH,Fertilizer,0
+E-Kerosene,Fertilizer,0
+FT,Fertilizer,0
+Gas,Fertilizer,1
+Coal,Fertilizer,0
+MGO,Fertilizer,0
+BtL,Fertilizer,0
+LNG,Fertilizer,0
+Biodiesel,Fertilizer,0
+HEFA,Fertilizer,0
+Naphtha,Fertilizer,0
+JetA,Fertilizer,0
+Electricity,Fertilizer,1
+CO2,Fertilizer,0
+CO,Fertilizer,0
+H2,Hvc,1
+LCH2,Hvc,0
+HCH2,Hvc,0
+NH3,Hvc,0
+MeOH,Hvc,1
+E-Kerosene,Hvc,0
+FT,Hvc,0
+Gas,Hvc,0
+Coal,Hvc,0
+MGO,Hvc,0
+BtL,Hvc,0
+LNG,Hvc,0
+Biodiesel,Hvc,0
+HEFA,Hvc,0
+JetA,Hvc,0
+Naphtha,Hvc,1
+Electricity,Hvc,1
+CO2,Hvc,1
+CO,Hvc,1
+H2,Shipping,1
+H2,Shipping,0
+LCH2,Shipping,0
+HCH2,Shipping,0
+NH3,Shipping,1
+MeOH,Shipping,1
+E-Kerosene,Shipping,0
+FT,Shipping,0
+Gas,Shipping,0
+Coal,Shipping,0
+MGO,Shipping,1
+BtL,Shipping,0
+LNG,Shipping,1
+Biodiesel,Shipping,1
+HEFA,Shipping,0
+JetA,Shipping,0
+Naphtha,Shipping,0
+Electricity,Shipping,0
+CO2,Shipping,0
+CO,Shipping,0
+H2,aviation,1
+LCH2,aviation,0
+HCH2,aviation,0
+NH3,aviation,0
+MeOH,aviation,0
+E-Kerosene,aviation,0
+FT,aviation,1
+Gas,aviation,0
+Coal,aviation,0
+MGO,aviation,1
+BtL,aviation,0
+LNG,aviation,1
+Biodiesel,aviation,1
+HEFA,aviation,0
+JetA,aviation,1
+Naphtha,aviation,0
+Electricity,aviation,0
+CO2,aviation,0
+CO,aviation,0
+Biomass,Steel,0
+Biomass,Fertilizer,0
+Biomass,Hvc,1
+Biomass,Shipping,0
+Biomass,aviation,0
+Electricity,H2 Producer,1
+Electricity,NH3 Producer,1
+Electricity,MeOH Producer,1
+CO2,MeOH Producer,1
+Biomass,MeOH Producer,1
+LH2,Steel,0
+LH2,Fertilizer,0
+LH2,Hvc,0
+LH2,Shipping,0
+LH2,aviation,0
+LH2,H2 Producer,0
+LH2,NH3 Producer,0
+LH2,MeOH Producer,0
+LH2,Port,1
+H2,Port,1
+LCH2,Port,0
+HCH2,Port,0
+NH3,Port,1
+MeOH,Port,1
+E-Kerosene,Port,0
+FT,Port,0
+Gas,Port,0
+Coal,Port,0
+MGO,Port,0
+BtL,Port,0
+LNG,Port,0
+Biodiesel,Port,0
+HEFA,Port,0
+JetA,Port,0
+Naphtha,Port,0
+Electricity,Port,0
+CO2,Port,0
+CO,Port,0
+Biomass,Port,0
+LCH2,H2 Producer,0
+LCH2,NH3 Producer,0
+LCH2,MeOH Producer,0
+HCH2,H2 Producer,0
+HCH2,NH3 Producer,0
+HCH2,MeOH Producer,0
