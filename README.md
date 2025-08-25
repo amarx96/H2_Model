@@ -15,7 +15,7 @@ Below are example figures generated from model outputs (see `results/`) and plot
 
 - Shipping transition: conventional ICE declines while LNG/NH3-based options scale over time.
   
-  <img src="graphics/example_shipping_transition.png" alt="Shipping process transition" width="720" />
+  <img src="graphics/Shipping_process_RFNBO_wo_Constraint.png" alt="Shipping process transition" width="720" />
 
 - Steel transition: Basic Oxygen Furnace (BOF) phases out; DRI ramps up in later years.
   
@@ -23,7 +23,7 @@ Below are example figures generated from model outputs (see `results/`) and plot
 
 - Aviation demand stack (illustrative): DAC-based synthetic fuels and FT ramp towards 2050.
   
-  <img src="graphics/example_aviation_stack.png" alt="Aviation demand stack" width="720" />
+  <img src="graphics/Aviation_process_RFNBO_wo_Constraint.png" alt="Aviation demand stack" width="720" />
 
 - CO2 price trajectory and ETS benchmarks: exogenous carbon price path and emissions intensity benchmarks converging to near-zero by 2050.
   
