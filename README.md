@@ -73,7 +73,7 @@ Below are example figures generated from sample scenarios. Values depend on data
 
 #### - RFNBO-constrained trade flows in 2050, (illustrative) Sankey
 
-  <img src="graphics/Sankey_Rfnbo_CapCon_2050.png" alt="Sankey with RFNBO capacity constraint" width="600" />
+  <img src="graphics/sankey_rfnbo_wo_cap_2050.png" alt="Sankey with RFNBO capacity constraint" width="600" />
 
 ## License
 MIT (see LICENSE)
