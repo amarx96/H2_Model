@@ -23,7 +23,7 @@ Typical CSV/XLSX inputs read by _DataImport.jl and setup scripts:
 
 ## Repository layout
 - Data/market setup: _DataImport.jl, _MarketSetUp.jl
-- Core models: _Main.jl, Min_Cost_Mod.jl, BIG_M_Reformulation_*.jl, Bilevel_*.jl, CleanH2MinCostMod.jl
+- Core models: _Main.jl, Min_Cost_Mod.jl, BIG_M_Reformulation_*.jl, Bilevel_*.jl
 - Utilities: export_function.jl, helper_functions.jl
 - Plotting (Python): results_plotting.py, Results_Plot.py, EU_ETS_viz.py
 
