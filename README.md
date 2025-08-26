@@ -21,8 +21,6 @@ Typical CSV/XLSX inputs read by _DataImport.jl and setup scripts:
 - Capacity factors: producers/electrolysers and generic capacity-factor tables
 - Network/trade: pipeline and shipping distances/adjacency
 
-Large or derived datasets should be tracked with Git LFS when appropriate.
-
 ## Repository layout
 - Data/market setup: _DataImport.jl, _MarketSetUp.jl
 - Core models: _Main.jl, Min_Cost_Mod.jl, BIG_M_Reformulation_*.jl, Bilevel_*.jl, CleanH2MinCostMod.jl
