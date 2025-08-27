@@ -61,9 +61,8 @@ Below are example figures generated from sample scenarios. Values depend on data
 
   <img src="graphics/residual_capacities.png" alt="Residual capacities" width="600" />
 
-#### - Aviation and Shipping process transitions (illustrative)
+#### - Shipping process transitions (illustrative)
 
-  <img src="graphics/Aviation_process_RFNBO_wo_Constraint.png" alt="Aviation process mix over time" width="600" />
   <img src="graphics/Shipping_process_RFNBO_wo_Constraint.png" alt="Shipping process mix over time" width="600" />
 
 #### - Forecasted hydrogen trade-flows in 2030 (illustrative)
